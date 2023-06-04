@@ -6,7 +6,7 @@
 			<detail>Ammunition</detail>
 			<type>A</type>
 			<weight>0.05</weight>
-			<value>0.05</value>
+			<value_>0.05</value_>
 			<property/>
 			<text>Source: Player's Handbook p. 150</text>
 		</item>
@@ -15,7 +15,7 @@
 			<detail>Ammunition</detail>
 			<type>A</type>
 			<weight>1</weight>
-			<value>1.0</value>
+			<value_>1.0</value_>
 			<property/>
 			<text>Source: Player's Handbook p. 150</text>
 		</item>
@@ -24,7 +24,7 @@
 			<detail>martial Weapon, Melee Weapon</detail>
 			<type>M</type>
 			<weight>4</weight>
-			<value>10.0</value>
+			<value_>10.0</value_>
 			<property>V,M</property>
 			<dmg1>1d8</dmg1>
 			<dmg2>1d10</dmg2>
@@ -36,7 +36,7 @@
 			<detail>martial Weapon, Ranged Weapon</detail>
 			<type>R</type>
 			<weight>1</weight>
-			<value>10.0</value>
+			<value_>10.0</value_>
 			<property>A,LD,M</property>
 			<dmg1>1</dmg1>
 			<dmgType>P</dmgType>
@@ -48,7 +48,7 @@
 			<detail>Ammunition</detail>
 			<type>A</type>
 			<weight>0.02</weight>
-			<value>0.02</value>
+			<value_>0.02</value_>
 			<property/>
 			<text>Source: Player's Handbook p. 150</text>
 		</item>
@@ -57,7 +57,7 @@
 			<detail>Ammunition</detail>
 			<type>A</type>
 			<weight>1</weight>
-			<value>1.0</value>
+			<value_>1.0</value_>
 			<property/>
 			<text>Source: Player's Handbook p. 150</text>
 		</item>
@@ -66,7 +66,7 @@
 			<detail>Medium Armor</detail>
 			<type>MA</type>
 			<weight>20</weight>
-			<value>400.0</value>
+			<value_>400.0</value_>
 			<property/>
 			<ac>14</ac>
 			<text>This armor consists of a fitted metal chest piece worn with supple leather. Although it leaves the legs and arms relatively unprotected, this armor provides good protection for the wearer's vital organs while leaving the wearer relatively unencumbered.
@@ -77,7 +77,7 @@ Source: Player's Handbook p. 145</text>
 			<detail>Heavy Armor</detail>
 			<type>HA</type>
 			<weight>55</weight>
-			<value>75.0</value>
+			<value_>75.0</value_>
 			<property/>
 			<ac>16</ac>
 			<stealth>1</stealth>
@@ -92,7 +92,7 @@ Source: Player's Handbook p. 145</text>
 			<detail>Medium Armor</detail>
 			<type>MA</type>
 			<weight>20</weight>
-			<value>50.0</value>
+			<value_>50.0</value_>
 			<property/>
 			<ac>13</ac>
 			<text>Made of interlocking metal rings, a chain shirt is worn between layers of clothing or leather. This armor offers modest protection to the wearer's upper body and allows the sound of the rings rubbing against one another to be muffled by outer layers.
@@ -103,7 +103,7 @@ Source: Player's Handbook p. 144</text>
 			<detail>simple Weapon, Melee Weapon</detail>
 			<type>M</type>
 			<weight>2</weight>
-			<value>0.1</value>
+			<value_>0.1</value_>
 			<property>L</property>
 			<dmg1>1d4</dmg1>
 			<dmgType>B</dmgType>
@@ -114,7 +114,7 @@ Source: Player's Handbook p. 144</text>
 			<detail>Ammunition</detail>
 			<type>A</type>
 			<weight>0.075</weight>
-			<value>0.05</value>
+			<value_>0.05</value_>
 			<property/>
 			<text>Source: Player's Handbook p. 150</text>
 		</item>
@@ -123,7 +123,7 @@ Source: Player's Handbook p. 144</text>
 			<detail>Ammunition</detail>
 			<type>A</type>
 			<weight>1.5</weight>
-			<value>1.0</value>
+			<value_>1.0</value_>
 			<property/>
 			<text>Source: Player's Handbook p. 150</text>
 		</item>
@@ -132,7 +132,7 @@ Source: Player's Handbook p. 144</text>
 			<detail>Spellcasting Focus</detail>
 			<type>G</type>
 			<weight>1</weight>
-			<value>10.0</value>
+			<value_>10.0</value_>
 			<property/>
 			<text>An arcane focus is a special item designed to channel the power of arcane spells. A sorcerer, warlock, or wizard can use such an item as a spellcasting focus.
 Source: Player's Handbook p. 151</text>
@@ -142,7 +142,7 @@ Source: Player's Handbook p. 151</text>
 			<detail>simple Weapon, Melee Weapon</detail>
 			<type>M</type>
 			<weight>1</weight>
-			<value>2.0</value>
+			<value_>2.0</value_>
 			<property>F,L,T</property>
 			<dmg1>1d4</dmg1>
 			<dmgType>P</dmgType>
@@ -154,7 +154,7 @@ Source: Player's Handbook p. 151</text>
 			<detail>simple Weapon, Ranged Weapon</detail>
 			<type>R</type>
 			<weight>0.25</weight>
-			<value>0.05</value>
+			<value_>0.05</value_>
 			<property>F,T</property>
 			<dmg1>1d4</dmg1>
 			<dmgType>P</dmgType>
@@ -166,7 +166,7 @@ Source: Player's Handbook p. 151</text>
 			<detail>martial Weapon, Melee Weapon</detail>
 			<type>M</type>
 			<weight>6</weight>
-			<value>100.0</value>
+			<value_>100.0</value_>
 			<property>S,2H,M</property>
 			<dmg1>2d4</dmg1>
 			<dmgType>S</dmgType>
@@ -180,7 +180,7 @@ Source: Eberron: Rising from the Last War p. 21, Wayfinder's Guide to Eberron p.
 			<detail>martial Weapon, Melee Weapon</detail>
 			<type>M</type>
 			<weight>2</weight>
-			<value>10.0</value>
+			<value_>10.0</value_>
 			<property>M</property>
 			<dmg1>1d8</dmg1>
 			<dmgType>B</dmgType>
@@ -191,7 +191,7 @@ Source: Eberron: Rising from the Last War p. 21, Wayfinder's Guide to Eberron p.
 			<detail>martial Weapon, Melee Weapon</detail>
 			<type>M</type>
 			<weight>6</weight>
-			<value>20.0</value>
+			<value_>20.0</value_>
 			<property>H,R,2H,M</property>
 			<dmg1>1d10</dmg1>
 			<dmgType>S</dmgType>
@@ -202,7 +202,7 @@ Source: Eberron: Rising from the Last War p. 21, Wayfinder's Guide to Eberron p.
 			<detail>martial Weapon, Melee Weapon</detail>
 			<type>M</type>
 			<weight>7</weight>
-			<value>30.0</value>
+			<value_>30.0</value_>
 			<property>H,2H,M</property>
 			<dmg1>1d12</dmg1>
 			<dmgType>S</dmgType>
@@ -213,7 +213,7 @@ Source: Eberron: Rising from the Last War p. 21, Wayfinder's Guide to Eberron p.
 			<detail>simple Weapon, Melee Weapon</detail>
 			<type>M</type>
 			<weight>10</weight>
-			<value>0.2</value>
+			<value_>0.2</value_>
 			<property>2H</property>
 			<dmg1>1d8</dmg1>
 			<dmgType>B</dmgType>
@@ -224,7 +224,7 @@ Source: Eberron: Rising from the Last War p. 21, Wayfinder's Guide to Eberron p.
 			<detail>martial Weapon, Melee Weapon</detail>
 			<type>M</type>
 			<weight>6</weight>
-			<value>50.0</value>
+			<value_>50.0</value_>
 			<property>H,2H,M</property>
 			<dmg1>2d6</dmg1>
 			<dmgType>S</dmgType>
@@ -235,7 +235,7 @@ Source: Eberron: Rising from the Last War p. 21, Wayfinder's Guide to Eberron p.
 			<detail>martial Weapon, Melee Weapon</detail>
 			<type>M</type>
 			<weight>6</weight>
-			<value>20.0</value>
+			<value_>20.0</value_>
 			<property>H,R,2H,M</property>
 			<dmg1>1d10</dmg1>
 			<dmgType>S</dmgType>
@@ -246,7 +246,7 @@ Source: Eberron: Rising from the Last War p. 21, Wayfinder's Guide to Eberron p.
 			<detail>Medium Armor</detail>
 			<type>MA</type>
 			<weight>40</weight>
-			<value>750.0</value>
+			<value_>750.0</value_>
 			<property/>
 			<ac>15</ac>
 			<stealth>1</stealth>
@@ -259,7 +259,7 @@ Source: Player's Handbook p. 145</text>
 			<detail>martial Weapon, Ranged Weapon</detail>
 			<type>R</type>
 			<weight>3</weight>
-			<value>75.0</value>
+			<value_>75.0</value_>
 			<property>A,L,LD,M</property>
 			<dmg1>1d6</dmg1>
 			<dmgType>P</dmgType>
@@ -271,7 +271,7 @@ Source: Player's Handbook p. 145</text>
 			<detail>simple Weapon, Melee Weapon</detail>
 			<type>M</type>
 			<weight>2</weight>
-			<value>5.0</value>
+			<value_>5.0</value_>
 			<property>L,T</property>
 			<dmg1>1d6</dmg1>
 			<dmgType>S</dmgType>
@@ -283,7 +283,7 @@ Source: Player's Handbook p. 145</text>
 			<detail>martial Weapon, Ranged Weapon</detail>
 			<type>R</type>
 			<weight>18</weight>
-			<value>50.0</value>
+			<value_>50.0</value_>
 			<property>A,H,LD,2H,M</property>
 			<dmg1>1d10</dmg1>
 			<dmgType>P</dmgType>
@@ -295,7 +295,7 @@ Source: Player's Handbook p. 145</text>
 			<detail>Medium Armor</detail>
 			<type>MA</type>
 			<weight>12</weight>
-			<value>10.0</value>
+			<value_>10.0</value_>
 			<property/>
 			<ac>12</ac>
 			<text>This crude armor consists of thick furs and pelts. It is commonly worn by barbarian tribes, evil humanoids, and other folk who lack access to the tools and materials needed to create better armor.
@@ -317,7 +317,7 @@ Source: Out of the Abyss p. 224</text>
 			<detail>simple Weapon, Melee Weapon</detail>
 			<type>M</type>
 			<weight>2</weight>
-			<value>0.5</value>
+			<value_>0.5</value_>
 			<property>T</property>
 			<dmg1>1d6</dmg1>
 			<dmgType>P</dmgType>
@@ -329,7 +329,7 @@ Source: Out of the Abyss p. 224</text>
 			<detail>martial Weapon, Melee Weapon</detail>
 			<type>M</type>
 			<weight>6</weight>
-			<value>10.0</value>
+			<value_>10.0</value_>
 			<property>R,S,M</property>
 			<dmg1>1d12</dmg1>
 			<dmgType>P</dmgType>
@@ -341,7 +341,7 @@ Source: Player's Handbook p. 149</text>
 			<detail>Light Armor</detail>
 			<type>LA</type>
 			<weight>10</weight>
-			<value>10.0</value>
+			<value_>10.0</value_>
 			<property/>
 			<ac>11</ac>
 			<text>The breastplate and shoulder protectors of this armor are made of leather that has been stiffened by being boiled in oil. The rest of the armor is made of softer and more flexible materials.
@@ -352,7 +352,7 @@ Source: Player's Handbook p. 144</text>
 			<detail>simple Weapon, Ranged Weapon</detail>
 			<type>R</type>
 			<weight>5</weight>
-			<value>25.0</value>
+			<value_>25.0</value_>
 			<property>A,LD,2H</property>
 			<dmg1>1d8</dmg1>
 			<dmgType>P</dmgType>
@@ -364,7 +364,7 @@ Source: Player's Handbook p. 144</text>
 			<detail>simple Weapon, Melee Weapon</detail>
 			<type>M</type>
 			<weight>2</weight>
-			<value>2.0</value>
+			<value_>2.0</value_>
 			<property>L,T</property>
 			<dmg1>1d4</dmg1>
 			<dmgType>B</dmgType>
@@ -388,7 +388,7 @@ Source: Out of the Abyss p. 224</text>
 			<detail>martial Weapon, Ranged Weapon</detail>
 			<type>R</type>
 			<weight>2</weight>
-			<value>50.0</value>
+			<value_>50.0</value_>
 			<property>A,H,2H,M</property>
 			<dmg1>1d8</dmg1>
 			<dmgType>P</dmgType>
@@ -400,7 +400,7 @@ Source: Out of the Abyss p. 224</text>
 			<detail>martial Weapon, Melee Weapon</detail>
 			<type>M</type>
 			<weight>3</weight>
-			<value>15.0</value>
+			<value_>15.0</value_>
 			<property>V,M</property>
 			<dmg1>1d8</dmg1>
 			<dmg2>1d10</dmg2>
@@ -412,7 +412,7 @@ Source: Out of the Abyss p. 224</text>
 			<detail>simple Weapon, Melee Weapon</detail>
 			<type>M</type>
 			<weight>4</weight>
-			<value>5.0</value>
+			<value_>5.0</value_>
 			<property/>
 			<dmg1>1d6</dmg1>
 			<dmgType>B</dmgType>
@@ -423,7 +423,7 @@ Source: Out of the Abyss p. 224</text>
 			<detail>martial Weapon, Melee Weapon</detail>
 			<type>M</type>
 			<weight>10</weight>
-			<value>10.0</value>
+			<value_>10.0</value_>
 			<property>H,2H,M</property>
 			<dmg1>2d6</dmg1>
 			<dmgType>B</dmgType>
@@ -434,7 +434,7 @@ Source: Out of the Abyss p. 224</text>
 			<detail>martial Weapon, Melee Weapon</detail>
 			<type>M</type>
 			<weight>4</weight>
-			<value>15.0</value>
+			<value_>15.0</value_>
 			<property>M</property>
 			<dmg1>1d8</dmg1>
 			<dmgType>P</dmgType>
@@ -445,7 +445,7 @@ Source: Out of the Abyss p. 224</text>
 			<detail>martial Weapon, Ranged Weapon</detail>
 			<type>R</type>
 			<weight>3</weight>
-			<value>1.0</value>
+			<value_>1.0</value_>
 			<property>S,T,M</property>
 			<range>5/15</range>
 			<text>Special: A Large or smaller creature hit by a net is restrained until it is freed. A net has no effect on creatures that are formless, or creatures that are Huge or larger. A creature can use its action to make a DC 10 Strength check, freeing itself or another creature within its reach on a success. Dealing 5 slashing damage to the net (AC 10) also frees the creature without harming it, ending the effect and destroying the net. When you use an action, bonus action, or reaction to attack with a net, you can make only one attack regardless of the number of attacks you can normally make.
@@ -456,7 +456,7 @@ Source: Player's Handbook p. 149</text>
 			<detail>Spellcasting Focus</detail>
 			<type>G</type>
 			<weight>3</weight>
-			<value>20.0</value>
+			<value_>20.0</value_>
 			<property/>
 			<text>An arcane focus is a special item designed to channel the power of arcane spells. A sorcerer, warlock, or wizard can use such an item as a spellcasting focus.
 Source: Player's Handbook p. 151</text>
@@ -466,7 +466,7 @@ Source: Player's Handbook p. 151</text>
 			<detail>Light Armor</detail>
 			<type>LA</type>
 			<weight>8</weight>
-			<value>5.0</value>
+			<value_>5.0</value_>
 			<property/>
 			<ac>11</ac>
 			<stealth>1</stealth>
@@ -479,7 +479,7 @@ Source: Player's Handbook p. 144</text>
 			<detail>martial Weapon, Melee Weapon</detail>
 			<type>M</type>
 			<weight>18</weight>
-			<value>5.0</value>
+			<value_>5.0</value_>
 			<property>H,R,2H,M</property>
 			<dmg1>1d10</dmg1>
 			<dmgType>P</dmgType>
@@ -490,7 +490,7 @@ Source: Player's Handbook p. 144</text>
 			<detail>Heavy Armor</detail>
 			<type>HA</type>
 			<weight>65</weight>
-			<value>1500.0</value>
+			<value_>1500.0</value_>
 			<property/>
 			<ac>18</ac>
 			<stealth>1</stealth>
@@ -505,7 +505,7 @@ Source: Player's Handbook p. 145</text>
 			<detail>simple Weapon, Melee Weapon</detail>
 			<type>M</type>
 			<weight>4</weight>
-			<value>0.2</value>
+			<value_>0.2</value_>
 			<property>V</property>
 			<dmg1>1d6</dmg1>
 			<dmg2>1d8</dmg2>
@@ -517,7 +517,7 @@ Source: Player's Handbook p. 145</text>
 			<detail>martial Weapon, Melee Weapon</detail>
 			<type>M</type>
 			<weight>2</weight>
-			<value>25.0</value>
+			<value_>25.0</value_>
 			<property>F,M</property>
 			<dmg1>1d8</dmg1>
 			<dmgType>P</dmgType>
@@ -528,7 +528,7 @@ Source: Player's Handbook p. 145</text>
 			<detail>Heavy Armor</detail>
 			<type>HA</type>
 			<weight>40</weight>
-			<value>30.0</value>
+			<value_>30.0</value_>
 			<property/>
 			<ac>14</ac>
 			<stealth>1</stealth>
@@ -541,7 +541,7 @@ Source: Player's Handbook p. 145</text>
 			<detail>Spellcasting Focus</detail>
 			<type>G</type>
 			<weight>2</weight>
-			<value>10.0</value>
+			<value_>10.0</value_>
 			<property/>
 			<text>An arcane focus is a special item designed to channel the power of arcane spells. A sorcerer, warlock, or wizard can use such an item as a spellcasting focus.
 Source: Player's Handbook p. 151</text>
@@ -551,7 +551,7 @@ Source: Player's Handbook p. 151</text>
 			<detail>Medium Armor</detail>
 			<type>MA</type>
 			<weight>45</weight>
-			<value>50.0</value>
+			<value_>50.0</value_>
 			<property/>
 			<ac>14</ac>
 			<stealth>1</stealth>
@@ -564,7 +564,7 @@ Source: Player's Handbook p. 144</text>
 			<detail>martial Weapon, Melee Weapon</detail>
 			<type>M</type>
 			<weight>3</weight>
-			<value>25.0</value>
+			<value_>25.0</value_>
 			<property>F,L,M</property>
 			<dmg1>1d6</dmg1>
 			<dmgType>S</dmgType>
@@ -575,7 +575,7 @@ Source: Player's Handbook p. 144</text>
 			<detail>Shield</detail>
 			<type>S</type>
 			<weight>6</weight>
-			<value>10.0</value>
+			<value_>10.0</value_>
 			<property/>
 			<ac>2</ac>
 			<text>A shield is made from wood or metal and is carried in one hand. Wielding a shield increases your Armor Class by 2. You can benefit from only one shield at a time.
@@ -586,7 +586,7 @@ Source: Player's Handbook p. 144</text>
 			<detail>simple Weapon, Ranged Weapon</detail>
 			<type>R</type>
 			<weight>2</weight>
-			<value>25.0</value>
+			<value_>25.0</value_>
 			<property>A,2H</property>
 			<dmg1>1d6</dmg1>
 			<dmgType>P</dmgType>
@@ -598,7 +598,7 @@ Source: Player's Handbook p. 144</text>
 			<detail>martial Weapon, Melee Weapon</detail>
 			<type>M</type>
 			<weight>2</weight>
-			<value>10.0</value>
+			<value_>10.0</value_>
 			<property>F,L,M</property>
 			<dmg1>1d6</dmg1>
 			<dmgType>P</dmgType>
@@ -609,7 +609,7 @@ Source: Player's Handbook p. 144</text>
 			<detail>simple Weapon, Melee Weapon</detail>
 			<type>M</type>
 			<weight>2</weight>
-			<value>1.0</value>
+			<value_>1.0</value_>
 			<property>L</property>
 			<dmg1>1d4</dmg1>
 			<dmgType>S</dmgType>
@@ -620,7 +620,7 @@ Source: Player's Handbook p. 144</text>
 			<detail>simple Weapon, Ranged Weapon</detail>
 			<type>R</type>
 			<weight/>
-			<value>0.1</value>
+			<value_>0.1</value_>
 			<property>A</property>
 			<dmg1>1d4</dmg1>
 			<dmgType>B</dmgType>
@@ -632,7 +632,7 @@ Source: Player's Handbook p. 144</text>
 			<detail>Ammunition</detail>
 			<type>A</type>
 			<weight>0.075</weight>
-			<value>0.002</value>
+			<value_>0.002</value_>
 			<property/>
 			<text>Source: Player's Handbook p. 150</text>
 		</item>
@@ -641,7 +641,7 @@ Source: Player's Handbook p. 144</text>
 			<detail>Ammunition</detail>
 			<type>A</type>
 			<weight>1.5</weight>
-			<value>0.04</value>
+			<value_>0.04</value_>
 			<property/>
 			<text>Source: Player's Handbook p. 150</text>
 		</item>
@@ -650,7 +650,7 @@ Source: Player's Handbook p. 144</text>
 			<detail>simple Weapon, Melee Weapon</detail>
 			<type>M</type>
 			<weight>3</weight>
-			<value>1.0</value>
+			<value_>1.0</value_>
 			<property>T,V</property>
 			<dmg1>1d6</dmg1>
 			<dmg2>1d8</dmg2>
@@ -663,7 +663,7 @@ Source: Player's Handbook p. 144</text>
 			<detail>Medium Armor</detail>
 			<type>MA</type>
 			<weight>45</weight>
-			<value>75.0</value>
+			<value_>75.0</value_>
 			<property/>
 			<ac>14</ac>
 			<stealth>1</stealth>
@@ -676,7 +676,7 @@ Source: Sword Coast Adventurer's Guide p. 121</text>
 			<detail>Heavy Armor</detail>
 			<type>HA</type>
 			<weight>60</weight>
-			<value>200.0</value>
+			<value_>200.0</value_>
 			<property/>
 			<ac>17</ac>
 			<stealth>1</stealth>
@@ -691,7 +691,7 @@ Source: Player's Handbook p. 145</text>
 			<detail>Staff, Spellcasting Focus</detail>
 			<type>ST</type>
 			<weight>4</weight>
-			<value>5.0</value>
+			<value_>5.0</value_>
 			<property/>
 			<text>An arcane focus is a special item designed to channel the power of arcane spells. A sorcerer, warlock, or wizard can use such an item as a spellcasting focus.
 Source: Player's Handbook p. 151</text>
@@ -701,7 +701,7 @@ Source: Player's Handbook p. 151</text>
 			<detail>Light Armor</detail>
 			<type>LA</type>
 			<weight>13</weight>
-			<value>45.0</value>
+			<value_>45.0</value_>
 			<property/>
 			<ac>12</ac>
 			<text>Made from tough but flexible leather, studded leather is reinforced with close-set rivets or spikes.
@@ -712,7 +712,7 @@ Source: Player's Handbook p. 144</text>
 			<detail>martial Weapon, Melee Weapon</detail>
 			<type>M</type>
 			<weight>4</weight>
-			<value>5.0</value>
+			<value_>5.0</value_>
 			<property>T,V,M</property>
 			<dmg1>1d6</dmg1>
 			<dmg2>1d8</dmg2>
@@ -725,7 +725,7 @@ Source: Player's Handbook p. 144</text>
 			<detail>Spellcasting Focus</detail>
 			<type>G</type>
 			<weight>1</weight>
-			<value>10.0</value>
+			<value_>10.0</value_>
 			<property/>
 			<text>An arcane focus is a special item designed to channel the power of arcane spells. A sorcerer, warlock, or wizard can use such an item as a spellcasting focus.
 Source: Player's Handbook p. 151</text>
@@ -735,7 +735,7 @@ Source: Player's Handbook p. 151</text>
 			<detail>martial Weapon, Melee Weapon</detail>
 			<type>M</type>
 			<weight>2</weight>
-			<value>5.0</value>
+			<value_>5.0</value_>
 			<property>M</property>
 			<dmg1>1d8</dmg1>
 			<dmgType>P</dmgType>
@@ -746,7 +746,7 @@ Source: Player's Handbook p. 151</text>
 			<detail>martial Weapon, Melee Weapon</detail>
 			<type>M</type>
 			<weight>2</weight>
-			<value>15.0</value>
+			<value_>15.0</value_>
 			<property>V,M</property>
 			<dmg1>1d8</dmg1>
 			<dmg2>1d10</dmg2>
@@ -758,7 +758,7 @@ Source: Player's Handbook p. 151</text>
 			<detail>martial Weapon, Melee Weapon</detail>
 			<type>M</type>
 			<weight>3</weight>
-			<value>2.0</value>
+			<value_>2.0</value_>
 			<property>F,R,M</property>
 			<dmg1>1d4</dmg1>
 			<dmgType>S</dmgType>
@@ -769,7 +769,7 @@ Source: Player's Handbook p. 151</text>
 			<detail>simple Weapon, Melee Weapon</detail>
 			<type>M</type>
 			<weight>3</weight>
-			<value>1.0</value>
+			<value_>1.0</value_>
 			<property>T</property>
 			<dmg1>1d8</dmg1>
 			<dmgType>P</dmgType>
@@ -14363,7 +14363,7 @@ Source: Dungeon Master's Guide p. 213</text>
 			<detail>Adventuring Gear</detail>
 			<type>G</type>
 			<weight>2</weight>
-			<value>2.0</value>
+			<value_>2.0</value_>
 			<property/>
 			<text>Source: Player's Handbook p. 150</text>
 		</item>
@@ -14372,7 +14372,7 @@ Source: Dungeon Master's Guide p. 213</text>
 			<detail>Adventuring Gear</detail>
 			<type>G</type>
 			<weight>1</weight>
-			<value>25.0</value>
+			<value_>25.0</value_>
 			<property/>
 			<text>As an action, you can splash the contents of this vial onto a creature within 5 feet of you or throw the vial up to 20 feet, shattering it on impact. In either case, make a ranged attack against a creature or object, treating the acid as an improvised weapon. On a hit, the target takes 2d6 acid damage.
 Source: Player's Handbook p. 148</text>
@@ -14383,7 +14383,7 @@ Source: Player's Handbook p. 148</text>
 			<detail>Adventuring Gear</detail>
 			<type>G</type>
 			<weight>1</weight>
-			<value>50.0</value>
+			<value_>50.0</value_>
 			<property/>
 			<text>This sticky, adhesive fluid ignites when exposed to air. As an action, you can throw this flask up to 20 feet, shattering it on impact. Make a ranged attack against a creature or object, treating the alchemist's fire as an improvised weapon. On a hit, the target takes 1d4 fire damage at the start of each of its turns. A creature can end this damage by using its action to make a DC 10 Dexterity check to extinguish the flames.
 Source: Player's Handbook p. 148</text>
@@ -14394,7 +14394,7 @@ Source: Player's Handbook p. 148</text>
 			<detail>Artisan Tools</detail>
 			<type>G</type>
 			<weight>8</weight>
-			<value>50.0</value>
+			<value_>50.0</value_>
 			<property/>
 			<text>Source: Player's Handbook p. 154</text>
 		</item>
@@ -14403,7 +14403,7 @@ Source: Player's Handbook p. 148</text>
 			<detail>Food and Drink</detail>
 			<type>G</type>
 			<weight/>
-			<value>0.2</value>
+			<value_>0.2</value_>
 			<property/>
 			<text>Source: Player's Handbook p. 158</text>
 		</item>
@@ -14412,7 +14412,7 @@ Source: Player's Handbook p. 148</text>
 			<detail>Food and Drink</detail>
 			<type>G</type>
 			<weight/>
-			<value>0.04</value>
+			<value_>0.04</value_>
 			<property/>
 			<text>Source: Player's Handbook p. 158</text>
 		</item>
@@ -14421,7 +14421,7 @@ Source: Player's Handbook p. 148</text>
 			<detail>Spellcasting Focus</detail>
 			<type>G</type>
 			<weight>1</weight>
-			<value>5.0</value>
+			<value_>5.0</value_>
 			<property/>
 			<text>A holy symbol is a representation of a god or pantheon.
 A cleric or paladin can use a holy symbol as a spellcasting focus. To use the symbol in this way, the caster must hold it in hand, wear it visibly, or bear it on a shield.
@@ -14432,7 +14432,7 @@ Source: Player's Handbook p. 151</text>
 			<detail>Adventuring Gear</detail>
 			<type>G</type>
 			<weight/>
-			<value>50.0</value>
+			<value_>50.0</value_>
 			<property/>
 			<text>A creature that drinks this vial of liquid gains advantage on saving throws against poison for 1 hour. It confers no benefit to undead or constructs.
 Source: Player's Handbook p. 151</text>
@@ -14442,7 +14442,7 @@ Source: Player's Handbook p. 151</text>
 			<detail>Adventuring Gear</detail>
 			<type>G</type>
 			<weight>5</weight>
-			<value>2.0</value>
+			<value_>2.0</value_>
 			<property/>
 			<text>A backpack can hold one cubic foot or 30 pounds of gear. You can also strap items, such as a bedroll or a coil of rope, to the outside of a backpack.
 Source: Player's Handbook p. 153</text>
@@ -14452,7 +14452,7 @@ Source: Player's Handbook p. 153</text>
 			<detail>Instrument</detail>
 			<type>G</type>
 			<weight>6</weight>
-			<value>30.0</value>
+			<value_>30.0</value_>
 			<property/>
 			<text>Source: Player's Handbook p. 154</text>
 		</item>
@@ -14461,7 +14461,7 @@ Source: Player's Handbook p. 153</text>
 			<detail>Adventuring Gear</detail>
 			<type>G</type>
 			<weight>0.002</weight>
-			<value>0.001</value>
+			<value_>0.001</value_>
 			<property/>
 			<text>Most commonly found inside a Ball Bearings (Bag of 1,000).
 Source: Player's Handbook p. 151</text>
@@ -14471,7 +14471,7 @@ Source: Player's Handbook p. 151</text>
 			<detail>Adventuring Gear</detail>
 			<type>G</type>
 			<weight>2</weight>
-			<value>1.0</value>
+			<value_>1.0</value_>
 			<property/>
 			<text>As an action, you can spill these tiny metal balls from their pouch to cover a level area 10 feet square. A creature moving across the covered area must succeed on a DC 10 Dexterity saving throw or fall prone. A creature moving through the area at half speed doesn't need to make the saving throw.
 Source: Player's Handbook p. 151</text>
@@ -14481,7 +14481,7 @@ Source: Player's Handbook p. 151</text>
 			<detail>Adventuring Gear</detail>
 			<type>G</type>
 			<weight>70</weight>
-			<value>2.0</value>
+			<value_>2.0</value_>
 			<property/>
 			<text>A barrel can hold 40 gallons of liquid or 4 cubic feet of solids.
 Source: Player's Handbook p. 153</text>
@@ -14491,7 +14491,7 @@ Source: Player's Handbook p. 153</text>
 			<detail>Adventuring Gear, Poison</detail>
 			<type>G</type>
 			<weight/>
-			<value>100.0</value>
+			<value_>100.0</value_>
 			<property/>
 			<text>You can use the poison in this vial to coat one slashing or piercing weapon or up to three pieces of ammunition. Applying the poison takes an action. A creature hit by the poisoned weapon or ammunition must make a DC 10 Constitution saving throw or take 1d4 poison damage. Once applied, the poison retains potency for 1 minute before drying.
 Source: Player's Handbook p. 153</text>
@@ -14502,7 +14502,7 @@ Source: Player's Handbook p. 153</text>
 			<detail>Adventuring Gear</detail>
 			<type>G</type>
 			<weight>2</weight>
-			<value>0.4</value>
+			<value_>0.4</value_>
 			<property/>
 			<text>A basket holds 2 cubic feet or 40 pounds of gear.
 Source: Player's Handbook p. 153</text>
@@ -14512,7 +14512,7 @@ Source: Player's Handbook p. 153</text>
 			<detail>Adventuring Gear</detail>
 			<type>G</type>
 			<weight>7</weight>
-			<value>1.0</value>
+			<value_>1.0</value_>
 			<property/>
 			<text>Source: Player's Handbook p. 150</text>
 		</item>
@@ -14521,7 +14521,7 @@ Source: Player's Handbook p. 153</text>
 			<detail>Adventuring Gear</detail>
 			<type>G</type>
 			<weight/>
-			<value>1.0</value>
+			<value_>1.0</value_>
 			<property/>
 			<text>Source: Player's Handbook p. 150</text>
 		</item>
@@ -14530,7 +14530,7 @@ Source: Player's Handbook p. 153</text>
 			<detail>Tack and Harness</detail>
 			<type>G</type>
 			<weight>1</weight>
-			<value>2.0</value>
+			<value_>2.0</value_>
 			<property/>
 			<text>Source: Player's Handbook p. 157</text>
 		</item>
@@ -14539,7 +14539,7 @@ Source: Player's Handbook p. 153</text>
 			<detail>Adventuring Gear</detail>
 			<type>G</type>
 			<weight>3</weight>
-			<value>0.5</value>
+			<value_>0.5</value_>
 			<property/>
 			<text>Source: Player's Handbook p. 150</text>
 		</item>
@@ -14548,7 +14548,7 @@ Source: Player's Handbook p. 153</text>
 			<detail>Adventuring Gear</detail>
 			<type>G</type>
 			<weight>5</weight>
-			<value>1.0</value>
+			<value_>1.0</value_>
 			<property/>
 			<text>A set of pulleys with a cable threaded through them and a hook to attach to objects, a block and tackle allows you to hoist up to four times the weight you can normally lift.
 Source: Player's Handbook p. 151</text>
@@ -14558,7 +14558,7 @@ Source: Player's Handbook p. 151</text>
 			<detail>Adventuring Gear</detail>
 			<type>G</type>
 			<weight>5</weight>
-			<value>25.0</value>
+			<value_>25.0</value_>
 			<property/>
 			<text>A book might contain poetry, historical accounts, information pertaining to a particular field of lore, diagrams and notes on gnomish contraptions, or just about anything else that can be represented using text or pictures. A book of spells is a spellbook.
 Source: Player's Handbook p. 151</text>
@@ -14568,7 +14568,7 @@ Source: Player's Handbook p. 151</text>
 			<detail>Artisan Tools</detail>
 			<type>G</type>
 			<weight>9</weight>
-			<value>20.0</value>
+			<value_>20.0</value_>
 			<property/>
 			<text>Source: Player's Handbook p. 154</text>
 		</item>
@@ -14577,7 +14577,7 @@ Source: Player's Handbook p. 151</text>
 			<detail>Adventuring Gear</detail>
 			<type>G</type>
 			<weight>2</weight>
-			<value>0.05</value>
+			<value_>0.05</value_>
 			<property/>
 			<text>A bucket holds 3 gallons of liquid or ½ cubic foot of solids.
 Source: Player's Handbook p. 153</text>
@@ -14587,7 +14587,7 @@ Source: Player's Handbook p. 153</text>
 			<detail>Adventuring Gear</detail>
 			<type>G</type>
 			<weight>2</weight>
-			<value>10.0</value>
+			<value_>10.0</value_>
 			<property/>
 			<text>A bullseye lantern casts bright light in a 60-foot cone and dim light for an additional 60 feet. Once lit, it burns for 6 hours on a flask (1 pint) of oil.
 Source: Player's Handbook p. 152</text>
@@ -14597,7 +14597,7 @@ Source: Player's Handbook p. 152</text>
 			<detail>Adventuring Gear</detail>
 			<type>G</type>
 			<weight>44.5</weight>
-			<value>16.0</value>
+			<value_>16.0</value_>
 			<property/>
 			<text>Includes:
 • a backpack
@@ -14621,7 +14621,7 @@ Source: Player's Handbook p. 151</text>
 			<detail>Artisan Tools</detail>
 			<type>G</type>
 			<weight>5</weight>
-			<value>10.0</value>
+			<value_>10.0</value_>
 			<property/>
 			<text>Source: Player's Handbook p. 154</text>
 		</item>
@@ -14630,7 +14630,7 @@ Source: Player's Handbook p. 151</text>
 			<detail>Adventuring Gear</detail>
 			<type>G</type>
 			<weight>0.1</weight>
-			<value>0.05</value>
+			<value_>0.05</value_>
 			<property/>
 			<text>As an action, you can spread a single bag of caltrops to cover a 5-foot-square area. Any creature that enters the area must succeed on a DC 15 Dexterity saving throw or stop moving and take 1 piercing damage. Until the creature regains at least 1 hit point, its walking speed is reduced by 10 feet. A creature moving through the area at half speed doesn't need to make the saving throw.
 Source: Player's Handbook p. 151</text>
@@ -14640,7 +14640,7 @@ Source: Player's Handbook p. 151</text>
 			<detail>Adventuring Gear</detail>
 			<type>G</type>
 			<weight>2</weight>
-			<value>1.0</value>
+			<value_>1.0</value_>
 			<property/>
 			<text>As an action, you can spread a single bag of caltrops to cover a 5-foot-square area. Any creature that enters the area must succeed on a DC 15 Dexterity saving throw or stop moving and take 1 piercing damage. Until the creature regains at least 1 hit point, its walking speed is reduced by 10 feet. A creature moving through the area at half speed doesn't need to make the saving throw.
 Source: Player's Handbook p. 151</text>
@@ -14650,7 +14650,7 @@ Source: Player's Handbook p. 151</text>
 			<detail>Mount</detail>
 			<type>G</type>
 			<weight/>
-			<value>50.0</value>
+			<value_>50.0</value_>
 			<property/>
 			<text>Source: Player's Handbook p. 157</text>
 		</item>
@@ -14659,7 +14659,7 @@ Source: Player's Handbook p. 151</text>
 			<detail>Adventuring Gear</detail>
 			<type>G</type>
 			<weight/>
-			<value>0.01</value>
+			<value_>0.01</value_>
 			<property/>
 			<text>For 1 hour, a candle sheds bright light in a 5-foot radius and dim light for an additional 5 feet.
 Source: Player's Handbook p. 151</text>
@@ -14669,7 +14669,7 @@ Source: Player's Handbook p. 151</text>
 			<detail>Trade Good</detail>
 			<type>G</type>
 			<weight/>
-			<value>0.1</value>
+			<value_>0.1</value_>
 			<property/>
 			<text>Source: Player's Handbook p. 157</text>
 		</item>
@@ -14678,7 +14678,7 @@ Source: Player's Handbook p. 151</text>
 			<detail>Artisan Tools</detail>
 			<type>G</type>
 			<weight>6</weight>
-			<value>8.0</value>
+			<value_>8.0</value_>
 			<property/>
 			<text>Source: Player's Handbook p. 154</text>
 		</item>
@@ -14687,7 +14687,7 @@ Source: Player's Handbook p. 151</text>
 			<detail>Vehicle (land)</detail>
 			<type>G</type>
 			<weight>600</weight>
-			<value>100.0</value>
+			<value_>100.0</value_>
 			<property/>
 			<text>Source: Player's Handbook p. 157</text>
 		</item>
@@ -14696,7 +14696,7 @@ Source: Player's Handbook p. 151</text>
 			<detail>Vehicle (land)</detail>
 			<type>G</type>
 			<weight>200</weight>
-			<value>15.0</value>
+			<value_>15.0</value_>
 			<property/>
 			<text>Source: Player's Handbook p. 157</text>
 		</item>
@@ -14705,7 +14705,7 @@ Source: Player's Handbook p. 151</text>
 			<detail>Artisan Tools</detail>
 			<type>G</type>
 			<weight>6</weight>
-			<value>15.0</value>
+			<value_>15.0</value_>
 			<property/>
 			<text>Source: Player's Handbook p. 154</text>
 		</item>
@@ -14714,7 +14714,7 @@ Source: Player's Handbook p. 151</text>
 			<detail>Adventuring Gear</detail>
 			<type>G</type>
 			<weight>10</weight>
-			<value>5.0</value>
+			<value_>5.0</value_>
 			<property/>
 			<text>A chain has 10 hit points. It can be burst with a successful DC 20 Strength check.
 Source: Player's Handbook p. 151</text>
@@ -14724,7 +14724,7 @@ Source: Player's Handbook p. 151</text>
 			<detail>Adventuring Gear</detail>
 			<type>G</type>
 			<weight/>
-			<value>0.01</value>
+			<value_>0.01</value_>
 			<property/>
 			<text>Source: Player's Handbook p. 150</text>
 		</item>
@@ -14733,7 +14733,7 @@ Source: Player's Handbook p. 151</text>
 			<detail>Vehicle (land)</detail>
 			<type>G</type>
 			<weight>100</weight>
-			<value>250.0</value>
+			<value_>250.0</value_>
 			<property/>
 			<text>Source: Player's Handbook p. 157</text>
 		</item>
@@ -14742,7 +14742,7 @@ Source: Player's Handbook p. 151</text>
 			<detail>Adventuring Gear</detail>
 			<type>G</type>
 			<weight>25</weight>
-			<value>5.0</value>
+			<value_>5.0</value_>
 			<property/>
 			<text>A chest holds 12 cubic feet or 300 pounds of gear.
 Source: Player's Handbook p. 153</text>
@@ -14752,7 +14752,7 @@ Source: Player's Handbook p. 153</text>
 			<detail>Trade Good</detail>
 			<type>G</type>
 			<weight/>
-			<value>0.02</value>
+			<value_>0.02</value_>
 			<property/>
 			<text>Source: Player's Handbook p. 157</text>
 		</item>
@@ -14761,7 +14761,7 @@ Source: Player's Handbook p. 153</text>
 			<detail>Food and Drink</detail>
 			<type>G</type>
 			<weight/>
-			<value>0.3</value>
+			<value_>0.3</value_>
 			<property/>
 			<text>Source: Player's Handbook p. 158</text>
 		</item>
@@ -14770,7 +14770,7 @@ Source: Player's Handbook p. 153</text>
 			<detail>Trade Good</detail>
 			<type>G</type>
 			<weight>1</weight>
-			<value>2.0</value>
+			<value_>2.0</value_>
 			<property/>
 			<text>Source: Player's Handbook p. 157</text>
 		</item>
@@ -14779,7 +14779,7 @@ Source: Player's Handbook p. 153</text>
 			<detail>Adventuring Gear</detail>
 			<type>G</type>
 			<weight>12</weight>
-			<value>25.0</value>
+			<value_>25.0</value_>
 			<property/>
 			<text>A climber's kit includes special pitons, boot tips, gloves, and a harness. You can use the climber's kit as an action to anchor yourself; when you do, you can't fall more than 25 feet from the point where you anchored yourself, and you can't climb more than 25 feet away from that point without undoing the anchor.
 Source: Player's Handbook p. 151</text>
@@ -14789,7 +14789,7 @@ Source: Player's Handbook p. 151</text>
 			<detail>Trade Good</detail>
 			<type>G</type>
 			<weight>1</weight>
-			<value>3.0</value>
+			<value_>3.0</value_>
 			<property/>
 			<text>Source: Player's Handbook p. 157</text>
 		</item>
@@ -14798,7 +14798,7 @@ Source: Player's Handbook p. 151</text>
 			<detail>Artisan Tools</detail>
 			<type>G</type>
 			<weight>5</weight>
-			<value>5.0</value>
+			<value_>5.0</value_>
 			<property/>
 			<text>Source: Player's Handbook p. 154</text>
 		</item>
@@ -14807,7 +14807,7 @@ Source: Player's Handbook p. 151</text>
 			<detail>Adventuring Gear</detail>
 			<type>G</type>
 			<weight>3</weight>
-			<value>0.5</value>
+			<value_>0.5</value_>
 			<property/>
 			<text>Source: Player's Handbook p. 150</text>
 		</item>
@@ -14816,7 +14816,7 @@ Source: Player's Handbook p. 151</text>
 			<detail>Food and Drink</detail>
 			<type>G</type>
 			<weight/>
-			<value>0.2</value>
+			<value_>0.2</value_>
 			<property/>
 			<text>Source: Player's Handbook p. 158</text>
 		</item>
@@ -14825,7 +14825,7 @@ Source: Player's Handbook p. 151</text>
 			<detail>Adventuring Gear</detail>
 			<type>G</type>
 			<weight>2</weight>
-			<value>25.0</value>
+			<value_>25.0</value_>
 			<property/>
 			<text>A component pouch is a small, watertight leather belt pouch that has compartments to hold all the material components and other special items you need to cast your spells, except for those components that have a specific cost (as indicated in a spell's description).
 Source: Player's Handbook p. 151</text>
@@ -14835,7 +14835,7 @@ Source: Player's Handbook p. 151</text>
 			<detail>Artisan Tools</detail>
 			<type>G</type>
 			<weight>8</weight>
-			<value>1.0</value>
+			<value_>1.0</value_>
 			<property/>
 			<text>Source: Player's Handbook p. 154</text>
 		</item>
@@ -14844,7 +14844,7 @@ Source: Player's Handbook p. 151</text>
 			<detail>Trade Good</detail>
 			<type>G</type>
 			<weight>1</weight>
-			<value>0.5</value>
+			<value_>0.5</value_>
 			<property/>
 			<text>Source: Player's Handbook p. 157</text>
 		</item>
@@ -14853,7 +14853,7 @@ Source: Player's Handbook p. 151</text>
 			<detail/>
 			<type>$</type>
 			<weight>0.02</weight>
-			<value>0.01</value>
+			<value_>0.01</value_>
 			<property/>
 			<text>Common coins come in several different denominations based on the relative worth of the metal from which they are made. The three most common coins are the gold piece (gp), the silver piece (sp), and the copper piece (cp).
 With one gold piece, a character can buy a belt pouch, 50 feet of good rope, or a goat. A skilled (but not exceptional) artisan can earn one gold piece a day. The gold piece is the standard unit of measure for wealth, even if the coin itself is not commonly used. When merchants discuss deals that involve goods or services worth hundreds or thousands of gold pieces, the transactions don't usually involve the exchange of individual coins. Rather, the gold piece is a standard measure of value, and the actual exchange is in gold bars, letters of credit, or valuable goods.
@@ -14868,7 +14868,7 @@ Source: Player's Handbook p. 143</text>
 			<detail>Adventuring Gear</detail>
 			<type>G</type>
 			<weight>4</weight>
-			<value>5.0</value>
+			<value_>5.0</value_>
 			<property/>
 			<text>Source: Player's Handbook p. 150</text>
 		</item>
@@ -14877,7 +14877,7 @@ Source: Player's Handbook p. 143</text>
 			<detail>Trade Good</detail>
 			<type>G</type>
 			<weight/>
-			<value>0.5</value>
+			<value_>0.5</value_>
 			<property/>
 			<text>Source: Player's Handbook p. 157</text>
 		</item>
@@ -14886,7 +14886,7 @@ Source: Player's Handbook p. 143</text>
 			<detail>Trade Good</detail>
 			<type>G</type>
 			<weight/>
-			<value>10.0</value>
+			<value_>10.0</value_>
 			<property/>
 			<text>Source: Player's Handbook p. 157</text>
 		</item>
@@ -14895,7 +14895,7 @@ Source: Player's Handbook p. 143</text>
 			<detail>Adventuring Gear</detail>
 			<type>G</type>
 			<weight>1</weight>
-			<value>1.0</value>
+			<value_>1.0</value_>
 			<property/>
 			<text>This wooden case can hold up to twenty crossbow bolt.
 Source: Player's Handbook p. 151</text>
@@ -14905,7 +14905,7 @@ Source: Player's Handbook p. 151</text>
 			<detail>Adventuring Gear</detail>
 			<type>G</type>
 			<weight>5</weight>
-			<value>2.0</value>
+			<value_>2.0</value_>
 			<property/>
 			<text>Using a crowbar grants advantage to Strength checks where the crowbar's leverage can be applied.
 Source: Player's Handbook p. 151</text>
@@ -14915,7 +14915,7 @@ Source: Player's Handbook p. 151</text>
 			<detail>Gaming Set</detail>
 			<type>G</type>
 			<weight/>
-			<value>0.1</value>
+			<value_>0.1</value_>
 			<property/>
 			<text>Source: Player's Handbook p. 154</text>
 		</item>
@@ -14924,7 +14924,7 @@ Source: Player's Handbook p. 151</text>
 			<detail>Adventuring Gear</detail>
 			<type>G</type>
 			<weight>36</weight>
-			<value>39.0</value>
+			<value_>39.0</value_>
 			<property/>
 			<text>Includes:
 • a chest
@@ -14945,7 +14945,7 @@ Source: Player's Handbook p. 151</text>
 			<detail>Tools</detail>
 			<type>G</type>
 			<weight>3</weight>
-			<value>25.0</value>
+			<value_>25.0</value_>
 			<property/>
 			<text>This pouch of cosmetics, hair dye, and small props lets you create disguises that change your physical appearance. Proficiency with this kit lets you add your proficiency bonus to any ability checks you make to create a visual disguise.
 Source: Player's Handbook p. 154</text>
@@ -14955,7 +14955,7 @@ Source: Player's Handbook p. 154</text>
 			<detail>Mount</detail>
 			<type>G</type>
 			<weight/>
-			<value>8.0</value>
+			<value_>8.0</value_>
 			<property/>
 			<text>Source: Player's Handbook p. 157</text>
 		</item>
@@ -14964,7 +14964,7 @@ Source: Player's Handbook p. 154</text>
 			<detail>Mount</detail>
 			<type>G</type>
 			<weight/>
-			<value>50.0</value>
+			<value_>50.0</value_>
 			<property/>
 			<text>Source: Player's Handbook p. 157</text>
 		</item>
@@ -14973,7 +14973,7 @@ Source: Player's Handbook p. 154</text>
 			<detail>Gaming Set</detail>
 			<type>G</type>
 			<weight>0.5</weight>
-			<value>1.0</value>
+			<value_>1.0</value_>
 			<property/>
 			<text>Source: Player's Handbook p. 154</text>
 		</item>
@@ -14982,7 +14982,7 @@ Source: Player's Handbook p. 154</text>
 			<detail>Instrument</detail>
 			<type>G</type>
 			<weight>3</weight>
-			<value>6.0</value>
+			<value_>6.0</value_>
 			<property/>
 			<text>Source: Player's Handbook p. 154</text>
 		</item>
@@ -14991,7 +14991,7 @@ Source: Player's Handbook p. 154</text>
 			<detail>Instrument</detail>
 			<type>G</type>
 			<weight>10</weight>
-			<value>25.0</value>
+			<value_>25.0</value_>
 			<property/>
 			<text>Source: Player's Handbook p. 154</text>
 		</item>
@@ -15000,7 +15000,7 @@ Source: Player's Handbook p. 154</text>
 			<detail>Adventuring Gear</detail>
 			<type>G</type>
 			<weight>61.5</weight>
-			<value>12.0</value>
+			<value_>12.0</value_>
 			<property/>
 			<text>Includes:
 • a backpack
@@ -15019,7 +15019,7 @@ Source: Player's Handbook p. 151</text>
 			<detail/>
 			<type>$</type>
 			<weight>0.02</weight>
-			<value>0.5</value>
+			<value_>0.5</value_>
 			<property/>
 			<text>Common coins come in several different denominations based on the relative worth of the metal from which they are made. The three most common coins are the gold piece (gp), the silver piece (sp), and the copper piece (cp).
 With one gold piece, a character can buy a belt pouch, 50 feet of good rope, or a goat. A skilled (but not exceptional) artisan can earn one gold piece a day. The gold piece is the standard unit of measure for wealth, even if the coin itself is not commonly used. When merchants discuss deals that involve goods or services worth hundreds or thousands of gold pieces, the transactions don't usually involve the exchange of individual coins. Rather, the gold piece is a standard measure of value, and the actual exchange is in gold bars, letters of credit, or valuable goods.
@@ -15034,7 +15034,7 @@ Source: Player's Handbook p. 143</text>
 			<detail>Mount</detail>
 			<type>G</type>
 			<weight/>
-			<value>200.0</value>
+			<value_>200.0</value_>
 			<property/>
 			<text>Source: Player's Handbook p. 157</text>
 		</item>
@@ -15043,7 +15043,7 @@ Source: Player's Handbook p. 143</text>
 			<detail>Spellcasting Focus</detail>
 			<type>G</type>
 			<weight/>
-			<value>5.0</value>
+			<value_>5.0</value_>
 			<property/>
 			<text>A holy symbol is a representation of a god or pantheon.
 A cleric or paladin can use a holy symbol as a spellcasting focus. To use the symbol in this way, the caster must hold it in hand, wear it visibly, or bear it on a shield.
@@ -15054,7 +15054,7 @@ Source: Player's Handbook p. 151</text>
 			<detail>Adventuring Gear</detail>
 			<type>G</type>
 			<weight>38</weight>
-			<value>40.0</value>
+			<value_>40.0</value_>
 			<property/>
 			<text>Includes:
 • a backpack
@@ -15071,7 +15071,7 @@ Source: Player's Handbook p. 151</text>
 			<detail>Tack and Harness</detail>
 			<type>G</type>
 			<weight>40</weight>
-			<value>60.0</value>
+			<value_>60.0</value_>
 			<property/>
 			<text>An exotic saddle is required for riding any aquatic or flying mount.
 Source: Player's Handbook p. 157</text>
@@ -15081,7 +15081,7 @@ Source: Player's Handbook p. 157</text>
 			<detail>Adventuring Gear</detail>
 			<type>G</type>
 			<weight>59</weight>
-			<value>10.0</value>
+			<value_>10.0</value_>
 			<property/>
 			<text>Includes:
 • a backpack
@@ -15099,7 +15099,7 @@ Source: Player's Handbook p. 151</text>
 			<detail>Tack and Harness</detail>
 			<type>G</type>
 			<weight>10</weight>
-			<value>0.05</value>
+			<value_>0.05</value_>
 			<property/>
 			<text>Source: Player's Handbook p. 157</text>
 		</item>
@@ -15108,7 +15108,7 @@ Source: Player's Handbook p. 151</text>
 			<detail>Adventuring Gear</detail>
 			<type>G</type>
 			<weight>6</weight>
-			<value>15.0</value>
+			<value_>15.0</value_>
 			<property/>
 			<text>Source: Player's Handbook p. 150</text>
 		</item>
@@ -15117,7 +15117,7 @@ Source: Player's Handbook p. 151</text>
 			<detail>Food and Drink</detail>
 			<type>G</type>
 			<weight/>
-			<value>10.0</value>
+			<value_>10.0</value_>
 			<property/>
 			<text>Source: Player's Handbook p. 158</text>
 		</item>
@@ -15126,7 +15126,7 @@ Source: Player's Handbook p. 151</text>
 			<detail>Adventuring Gear</detail>
 			<type>G</type>
 			<weight>4</weight>
-			<value>1.0</value>
+			<value_>1.0</value_>
 			<property/>
 			<text>This kit includes a wooden rod, silken line, corkwood bobbers, steel hooks, lead sinkers, velvet lures, and narrow netting.
 Source: Player's Handbook p. 151</text>
@@ -15136,7 +15136,7 @@ Source: Player's Handbook p. 151</text>
 			<detail>Adventuring Gear</detail>
 			<type>G</type>
 			<weight>1</weight>
-			<value>0.02</value>
+			<value_>0.02</value_>
 			<property/>
 			<text>A flask holds 1 pint of liquid.
 Source: Player's Handbook p. 153</text>
@@ -15146,7 +15146,7 @@ Source: Player's Handbook p. 153</text>
 			<detail>Trade Good</detail>
 			<type>G</type>
 			<weight>1</weight>
-			<value>0.02</value>
+			<value_>0.02</value_>
 			<property/>
 			<text>Source: Player's Handbook p. 157</text>
 		</item>
@@ -15155,7 +15155,7 @@ Source: Player's Handbook p. 153</text>
 			<detail>Instrument</detail>
 			<type>G</type>
 			<weight>1</weight>
-			<value>2.0</value>
+			<value_>2.0</value_>
 			<property/>
 			<text>Source: Player's Handbook p. 154</text>
 		</item>
@@ -15164,7 +15164,7 @@ Source: Player's Handbook p. 153</text>
 			<detail>Tools</detail>
 			<type>G</type>
 			<weight>5</weight>
-			<value>15.0</value>
+			<value_>15.0</value_>
 			<property/>
 			<text>This small box contains a variety of papers and parchments, pens and inks, seals and sealing wax, gold and silver leaf, and other supplies necessary to create convincing forgeries of physical documents. Proficiency with this kit lets you add your proficiency bonus to any ability checks you make to create a physical forgery of a document.
 Source: Player's Handbook p. 154</text>
@@ -15174,7 +15174,7 @@ Source: Player's Handbook p. 154</text>
 			<detail>Trade Good</detail>
 			<type>G</type>
 			<weight>1</weight>
-			<value>1.0</value>
+			<value_>1.0</value_>
 			<property/>
 			<text>Source: Player's Handbook p. 157</text>
 		</item>
@@ -15183,7 +15183,7 @@ Source: Player's Handbook p. 154</text>
 			<detail>Adventuring Gear</detail>
 			<type>G</type>
 			<weight>2</weight>
-			<value>2.0</value>
+			<value_>2.0</value_>
 			<property/>
 			<text>A bottle holds 1½ pints of liquid.
 Source: Player's Handbook p. 153</text>
@@ -15193,7 +15193,7 @@ Source: Player's Handbook p. 153</text>
 			<detail>Artisan Tools</detail>
 			<type>G</type>
 			<weight>5</weight>
-			<value>30.0</value>
+			<value_>30.0</value_>
 			<property/>
 			<text>Source: Player's Handbook p. 154</text>
 		</item>
@@ -15202,7 +15202,7 @@ Source: Player's Handbook p. 153</text>
 			<detail>Trade Good</detail>
 			<type>G</type>
 			<weight/>
-			<value>1.0</value>
+			<value_>1.0</value_>
 			<property/>
 			<text>Source: Player's Handbook p. 157</text>
 		</item>
@@ -15211,7 +15211,7 @@ Source: Player's Handbook p. 153</text>
 			<detail>Trade Good</detail>
 			<type>G</type>
 			<weight>1</weight>
-			<value>50.0</value>
+			<value_>50.0</value_>
 			<property/>
 			<text>Source: Player's Handbook p. 157</text>
 		</item>
@@ -15220,7 +15220,7 @@ Source: Player's Handbook p. 153</text>
 			<detail/>
 			<type>$</type>
 			<weight>0.02</weight>
-			<value>1.0</value>
+			<value_>1.0</value_>
 			<property/>
 			<text>Common coins come in several different denominations based on the relative worth of the metal from which they are made. The three most common coins are the gold piece (gp), the silver piece (sp), and the copper piece (cp).
 With one gold piece, a character can buy a belt pouch, 50 feet of good rope, or a goat. A skilled (but not exceptional) artisan can earn one gold piece a day. The gold piece is the standard unit of measure for wealth, even if the coin itself is not commonly used. When merchants discuss deals that involve goods or services worth hundreds or thousands of gold pieces, the transactions don't usually involve the exchange of individual coins. Rather, the gold piece is a standard measure of value, and the actual exchange is in gold bars, letters of credit, or valuable goods.
@@ -15235,7 +15235,7 @@ Source: Player's Handbook p. 143</text>
 			<detail>Adventuring Gear</detail>
 			<type>G</type>
 			<weight>4</weight>
-			<value>2.0</value>
+			<value_>2.0</value_>
 			<property/>
 			<text>Source: Player's Handbook p. 150</text>
 		</item>
@@ -15244,7 +15244,7 @@ Source: Player's Handbook p. 143</text>
 			<detail>Adventuring Gear</detail>
 			<type>G</type>
 			<weight>3</weight>
-			<value>1.0</value>
+			<value_>1.0</value_>
 			<property/>
 			<text>Source: Player's Handbook p. 150</text>
 		</item>
@@ -15253,7 +15253,7 @@ Source: Player's Handbook p. 143</text>
 			<detail>Adventuring Gear</detail>
 			<type>G</type>
 			<weight>3</weight>
-			<value>5.0</value>
+			<value_>5.0</value_>
 			<property/>
 			<text>This kit is a leather pouch containing bandages, salves, and splints. The kit has ten uses. As an action, you can expend one use of the kit to stabilize a creature that has 0 hit points, without needing to make a Wisdom (Medicine) check.
 Source: Player's Handbook p. 151</text>
@@ -15263,7 +15263,7 @@ Source: Player's Handbook p. 151</text>
 			<detail>Adventuring Gear</detail>
 			<type>G</type>
 			<weight>10</weight>
-			<value>1.0</value>
+			<value_>1.0</value_>
 			<property/>
 			<text>Rope, whether made of hemp or silk, has 2 hit points and can be burst with a DC 17 Strength check.
 Source: Player's Handbook p. 153</text>
@@ -15273,7 +15273,7 @@ Source: Player's Handbook p. 153</text>
 			<detail>Tools</detail>
 			<type>G</type>
 			<weight>3</weight>
-			<value>5.0</value>
+			<value_>5.0</value_>
 			<property/>
 			<text>This kit contains a variety of instruments such as clippers, mortar and pestle, and pouches and vials used by herbalists to create remedies and potions. Proficiency with this kit lets you add your proficiency bonus to any ability checks you make to identify or apply herbs. Also, proficiency with this kit is required to create antitoxin and potions of healing.
 Source: Player's Handbook p. 154</text>
@@ -15283,7 +15283,7 @@ Source: Player's Handbook p. 154</text>
 			<detail>Adventuring Gear</detail>
 			<type>G</type>
 			<weight>1</weight>
-			<value>25.0</value>
+			<value_>25.0</value_>
 			<property/>
 			<text>As an action, you can splash the contents of this flask onto a creature within 5 feet of you or throw it up to 20 feet, shattering it on impact. In either case, make a ranged attack against a target creature, treating the holy water as an improvised weapon. If the target is a fiend or undead, it takes 2d6 radiant damage.
 A cleric or paladin may create holy water by performing a special ritual. The ritual takes 1 hour to perform, uses 25 gp worth of powdered silver, and requires the caster to expend a 1st-level spell slot.
@@ -15295,7 +15295,7 @@ Source: Player's Handbook p. 151</text>
 			<detail>Adventuring Gear</detail>
 			<type>G</type>
 			<weight>2</weight>
-			<value>5.0</value>
+			<value_>5.0</value_>
 			<property/>
 			<text>A hooded lantern casts bright light in a 30-foot radius and dim light for an additional 30 feet. Once lit, it burns for 6 hours on a flask (1 pint) of oil. As an action, you can lower the hood, reducing the light to dim light in a 5-foot radius.
 Source: Player's Handbook p. 152</text>
@@ -15305,7 +15305,7 @@ Source: Player's Handbook p. 152</text>
 			<detail>Instrument</detail>
 			<type>G</type>
 			<weight>2</weight>
-			<value>3.0</value>
+			<value_>3.0</value_>
 			<property/>
 			<text>Source: Player's Handbook p. 154</text>
 		</item>
@@ -15314,7 +15314,7 @@ Source: Player's Handbook p. 152</text>
 			<detail>Adventuring Gear</detail>
 			<type>G</type>
 			<weight>1</weight>
-			<value>25.0</value>
+			<value_>25.0</value_>
 			<property/>
 			<text>Source: Player's Handbook p. 150</text>
 		</item>
@@ -15323,7 +15323,7 @@ Source: Player's Handbook p. 152</text>
 			<detail>Food and Drink</detail>
 			<type>G</type>
 			<weight/>
-			<value>0.1</value>
+			<value_>0.1</value_>
 			<property/>
 			<text>Source: Player's Handbook p. 158</text>
 		</item>
@@ -15332,7 +15332,7 @@ Source: Player's Handbook p. 152</text>
 			<detail>Adventuring Gear</detail>
 			<type>G</type>
 			<weight>25</weight>
-			<value>5.0</value>
+			<value_>5.0</value_>
 			<property/>
 			<text>When you use your action to set it, this trap forms a saw-toothed steel ring that snaps shut when a creature steps on a pressure plate in the center. The trap is affixed by a heavy chain to an immobile object, such as a tree or a spike driven into the ground. A creature that steps on the plate must succeed on a DC 13 Dexterity saving throw or take 1d4 piercing damage and stop moving. Thereafter, until the creature breaks free of the trap, its movement is limited by the length of the chain (typically 3 feet long). A creature can use its action to make a DC 13 Strength check, freeing itself or another creature within its reach on a success. Each failed check deals 1 piercing damage to the trapped creature.
 Source: Player's Handbook p. 152</text>
@@ -15343,7 +15343,7 @@ Source: Player's Handbook p. 152</text>
 			<detail>Adventuring Gear</detail>
 			<type>G</type>
 			<weight/>
-			<value>10.0</value>
+			<value_>10.0</value_>
 			<property/>
 			<text>Ink (1-ounce bottle)
 Source: Player's Handbook p. 150</text>
@@ -15353,7 +15353,7 @@ Source: Player's Handbook p. 150</text>
 			<detail>Adventuring Gear</detail>
 			<type>G</type>
 			<weight/>
-			<value>0.02</value>
+			<value_>0.02</value_>
 			<property/>
 			<text>Source: Player's Handbook p. 150</text>
 		</item>
@@ -15362,7 +15362,7 @@ Source: Player's Handbook p. 150</text>
 			<detail>Trade Good</detail>
 			<type>G</type>
 			<weight>1</weight>
-			<value>0.1</value>
+			<value_>0.1</value_>
 			<property/>
 			<text>Source: Player's Handbook p. 157</text>
 		</item>
@@ -15371,7 +15371,7 @@ Source: Player's Handbook p. 150</text>
 			<detail>Adventuring Gear</detail>
 			<type>G</type>
 			<weight>10</weight>
-			<value>2.0</value>
+			<value_>2.0</value_>
 			<property/>
 			<text>An iron pot holds 1 gallon of liquid.
 Source: Player's Handbook p. 153</text>
@@ -15381,7 +15381,7 @@ Source: Player's Handbook p. 153</text>
 			<detail>Adventuring Gear</detail>
 			<type>G</type>
 			<weight>0.5</weight>
-			<value>0.1</value>
+			<value_>0.1</value_>
 			<property/>
 			<text>Source: Player's Handbook p. 150</text>
 		</item>
@@ -15390,7 +15390,7 @@ Source: Player's Handbook p. 153</text>
 			<detail>Adventuring Gear</detail>
 			<type>G</type>
 			<weight>5</weight>
-			<value>1.0</value>
+			<value_>1.0</value_>
 			<property/>
 			<text>Source: Player's Handbook p. 150</text>
 		</item>
@@ -15399,7 +15399,7 @@ Source: Player's Handbook p. 153</text>
 			<detail>Artisan Tools</detail>
 			<type>G</type>
 			<weight>2</weight>
-			<value>25.0</value>
+			<value_>25.0</value_>
 			<property/>
 			<text>Source: Player's Handbook p. 154</text>
 		</item>
@@ -15408,7 +15408,7 @@ Source: Player's Handbook p. 153</text>
 			<detail>Adventuring Gear</detail>
 			<type>G</type>
 			<weight>4</weight>
-			<value>0.02</value>
+			<value_>0.02</value_>
 			<property/>
 			<text>A jug holds 1 gallon of liquid.
 Source: Player's Handbook p. 153</text>
@@ -15418,7 +15418,7 @@ Source: Player's Handbook p. 153</text>
 			<detail>Adventuring Gear</detail>
 			<type>G</type>
 			<weight>25</weight>
-			<value>0.1</value>
+			<value_>0.1</value_>
 			<property/>
 			<text>Ladder (10-foot)
 Source: Player's Handbook p. 150</text>
@@ -15428,7 +15428,7 @@ Source: Player's Handbook p. 150</text>
 			<detail>Adventuring Gear</detail>
 			<type>G</type>
 			<weight>1</weight>
-			<value>0.5</value>
+			<value_>0.5</value_>
 			<property/>
 			<text>A lamp casts bright light in a 15-foot radius and dim light for an additional 30 feet. Once lit, it burns for 6 hours on a flask (1 pint) of oil.
 Source: Player's Handbook p. 152</text>
@@ -15438,7 +15438,7 @@ Source: Player's Handbook p. 152</text>
 			<detail>Artisan Tools</detail>
 			<type>G</type>
 			<weight>5</weight>
-			<value>5.0</value>
+			<value_>5.0</value_>
 			<property/>
 			<text>Source: Player's Handbook p. 154</text>
 		</item>
@@ -15447,7 +15447,7 @@ Source: Player's Handbook p. 152</text>
 			<detail>Trade Good</detail>
 			<type>G</type>
 			<weight/>
-			<value>5.0</value>
+			<value_>5.0</value_>
 			<property/>
 			<text>Source: Player's Handbook p. 157</text>
 		</item>
@@ -15456,7 +15456,7 @@ Source: Player's Handbook p. 152</text>
 			<detail>Food and Drink</detail>
 			<type>G</type>
 			<weight/>
-			<value>0.02</value>
+			<value_>0.02</value_>
 			<property/>
 			<text>Source: Player's Handbook p. 158</text>
 		</item>
@@ -15465,7 +15465,7 @@ Source: Player's Handbook p. 152</text>
 			<detail>Adventuring Gear</detail>
 			<type>G</type>
 			<weight>1</weight>
-			<value>10.0</value>
+			<value_>10.0</value_>
 			<property/>
 			<text>A key is provided with the lock. Without the key, a creature proficient with thieves' tools can pick this lock with a successful DC 15 Dexterity check. Your DM may decide that better locks are available for higher prices.
 Source: Player's Handbook p. 152</text>
@@ -15475,7 +15475,7 @@ Source: Player's Handbook p. 152</text>
 			<detail>Instrument</detail>
 			<type>G</type>
 			<weight>2</weight>
-			<value>35.0</value>
+			<value_>35.0</value_>
 			<property/>
 			<text>Source: Player's Handbook p. 154</text>
 		</item>
@@ -15484,7 +15484,7 @@ Source: Player's Handbook p. 152</text>
 			<detail>Instrument</detail>
 			<type>G</type>
 			<weight>2</weight>
-			<value>30.0</value>
+			<value_>30.0</value_>
 			<property/>
 			<text>Source: Player's Handbook p. 154</text>
 		</item>
@@ -15493,7 +15493,7 @@ Source: Player's Handbook p. 152</text>
 			<detail>Adventuring Gear</detail>
 			<type>G</type>
 			<weight/>
-			<value>100.0</value>
+			<value_>100.0</value_>
 			<property/>
 			<text>This lens allows a closer look at small objects. It is also useful as a substitute for flint and steel when starting fires. Lighting a fire with a magnifying glass requires light as bright as sunlight to focus, tinder to ignite, and about 5 minutes for the fire to ignite. A magnifying glass grants advantage on any ability check made to appraise or inspect an item that is small or highly detailed.
 Source: Player's Handbook p. 152</text>
@@ -15503,7 +15503,7 @@ Source: Player's Handbook p. 152</text>
 			<detail>Adventuring Gear</detail>
 			<type>G</type>
 			<weight>6</weight>
-			<value>2.0</value>
+			<value_>2.0</value_>
 			<property/>
 			<text>These metal restraints can bind a Small or Medium creature. Escaping the manacles requires a successful DC 20 Dexterity check. Breaking them requires a successful DC 20 Strength check. Each set of manacles comes with one key. Without the key, a creature proficient with thieves' tools can pick the manacles' lock with a successful DC 15 Dexterity check. Manacles have 15 hit points.
 Source: Player's Handbook p. 152</text>
@@ -15513,7 +15513,7 @@ Source: Player's Handbook p. 152</text>
 			<detail>Adventuring Gear</detail>
 			<type>G</type>
 			<weight>1</weight>
-			<value>1.0</value>
+			<value_>1.0</value_>
 			<property/>
 			<text>This cylindrical leather case can hold up to ten rolled-up paper (one sheet) or five rolled-up parchment (one sheet).
 Source: Player's Handbook p. 151</text>
@@ -15523,7 +15523,7 @@ Source: Player's Handbook p. 151</text>
 			<detail>Artisan Tools</detail>
 			<type>G</type>
 			<weight>8</weight>
-			<value>10.0</value>
+			<value_>10.0</value_>
 			<property/>
 			<text>Source: Player's Handbook p. 154</text>
 		</item>
@@ -15532,7 +15532,7 @@ Source: Player's Handbook p. 151</text>
 			<detail>Mount</detail>
 			<type>G</type>
 			<weight/>
-			<value>25.0</value>
+			<value_>25.0</value_>
 			<property/>
 			<text>Source: Player's Handbook p. 157</text>
 		</item>
@@ -15541,7 +15541,7 @@ Source: Player's Handbook p. 151</text>
 			<detail>Adventuring Gear</detail>
 			<type>G</type>
 			<weight>3</weight>
-			<value>5.0</value>
+			<value_>5.0</value_>
 			<property/>
 			<text>A scale includes a small balance, pans, and a suitable assortment of weights up to 2 pounds. With it, you can measure the exact weight of small objects, such as raw precious metals or trade goods, to help determine their worth.
 Source: Player's Handbook p. 153</text>
@@ -15551,7 +15551,7 @@ Source: Player's Handbook p. 153</text>
 			<detail>Adventuring Gear</detail>
 			<type>G</type>
 			<weight>1</weight>
-			<value>0.2</value>
+			<value_>0.2</value_>
 			<property/>
 			<text>This tin box contains a cup and simple cutlery. The box clamps together, and one side can be used as a cooking pan and the other as a plate or shallow bowl.
 Source: Player's Handbook p. 152</text>
@@ -15561,7 +15561,7 @@ Source: Player's Handbook p. 152</text>
 			<detail>Tack and Harness</detail>
 			<type>G</type>
 			<weight>30</weight>
-			<value>20.0</value>
+			<value_>20.0</value_>
 			<property/>
 			<text>A military saddle braces the rider, helping you keep your seat on an active mount in battle. It gives you advantage on any check you make to remain mounted.
 Source: Player's Handbook p. 157</text>
@@ -15571,7 +15571,7 @@ Source: Player's Handbook p. 157</text>
 			<detail>Adventuring Gear</detail>
 			<type>G</type>
 			<weight>10</weight>
-			<value>2.0</value>
+			<value_>2.0</value_>
 			<property/>
 			<text>Source: Player's Handbook p. 150</text>
 		</item>
@@ -15580,7 +15580,7 @@ Source: Player's Handbook p. 157</text>
 			<detail>Mount</detail>
 			<type>G</type>
 			<weight/>
-			<value>8.0</value>
+			<value_>8.0</value_>
 			<property/>
 			<text>Source: Player's Handbook p. 157</text>
 		</item>
@@ -15589,7 +15589,7 @@ Source: Player's Handbook p. 157</text>
 			<detail>Tools</detail>
 			<type>G</type>
 			<weight>2</weight>
-			<value>25.0</value>
+			<value_>25.0</value_>
 			<property/>
 			<text>This set of instruments is used for navigation at sea. Proficiency with navigator's tools lets you chart a ship's course and follow navigation charts. In addition, these tools allow you to add your proficiency bonus to any ability check you make to avoid getting lost at sea.
 Source: Player's Handbook p. 154</text>
@@ -15599,7 +15599,7 @@ Source: Player's Handbook p. 154</text>
 			<detail>Adventuring Gear</detail>
 			<type>G</type>
 			<weight>1</weight>
-			<value>0.1</value>
+			<value_>0.1</value_>
 			<property/>
 			<text>Oil usually comes in a clay flask that holds 1 pint. As an action, you can splash the oil in this flask onto a creature within 5 feet of you or throw it up to 20 feet, shattering it on impact. Make a ranged attack against a target creature or object, treating the oil as an improvised weapon. On a hit, the target is covered in oil. If the target takes any fire damage before the oil dries (after 1 minute), the target takes an additional 5 fire damage from the burning oil. You can also pour a flask of oil on the ground to cover a 5-foot-square area, provided that the surface is level. If lit, the oil burns for 2 rounds and deals 5 fire damage to any creature that enters the area or ends its turn in the area. A creature can take this damage only once per turn.
 Source: Player's Handbook p. 152</text>
@@ -15609,7 +15609,7 @@ Source: Player's Handbook p. 152</text>
 			<detail>Trade Good</detail>
 			<type>G</type>
 			<weight/>
-			<value>15.0</value>
+			<value_>15.0</value_>
 			<property/>
 			<text>Source: Player's Handbook p. 157</text>
 		</item>
@@ -15618,7 +15618,7 @@ Source: Player's Handbook p. 152</text>
 			<detail>Tack and Harness</detail>
 			<type>G</type>
 			<weight>15</weight>
-			<value>5.0</value>
+			<value_>5.0</value_>
 			<property/>
 			<text>Source: Player's Handbook p. 157</text>
 		</item>
@@ -15627,7 +15627,7 @@ Source: Player's Handbook p. 152</text>
 			<detail>Artisan Tools</detail>
 			<type>G</type>
 			<weight>5</weight>
-			<value>10.0</value>
+			<value_>10.0</value_>
 			<property/>
 			<text>Source: Player's Handbook p. 154</text>
 		</item>
@@ -15636,7 +15636,7 @@ Source: Player's Handbook p. 152</text>
 			<detail>Instrument</detail>
 			<type>G</type>
 			<weight>2</weight>
-			<value>12.0</value>
+			<value_>12.0</value_>
 			<property/>
 			<text>Source: Player's Handbook p. 154</text>
 		</item>
@@ -15645,7 +15645,7 @@ Source: Player's Handbook p. 152</text>
 			<detail>Adventuring Gear</detail>
 			<type>G</type>
 			<weight/>
-			<value>0.2</value>
+			<value_>0.2</value_>
 			<property/>
 			<text>Source: Player's Handbook p. 150</text>
 		</item>
@@ -15654,7 +15654,7 @@ Source: Player's Handbook p. 152</text>
 			<detail>Adventuring Gear</detail>
 			<type>G</type>
 			<weight/>
-			<value>0.1</value>
+			<value_>0.1</value_>
 			<property/>
 			<text>Source: Player's Handbook p. 150</text>
 		</item>
@@ -15663,7 +15663,7 @@ Source: Player's Handbook p. 152</text>
 			<detail>Trade Good</detail>
 			<type>G</type>
 			<weight>1</weight>
-			<value>2.0</value>
+			<value_>2.0</value_>
 			<property/>
 			<text>Source: Player's Handbook p. 157</text>
 		</item>
@@ -15672,7 +15672,7 @@ Source: Player's Handbook p. 152</text>
 			<detail>Adventuring Gear</detail>
 			<type>G</type>
 			<weight/>
-			<value>5.0</value>
+			<value_>5.0</value_>
 			<property/>
 			<text>Source: Player's Handbook p. 150</text>
 		</item>
@@ -15681,7 +15681,7 @@ Source: Player's Handbook p. 152</text>
 			<detail>Trade Good</detail>
 			<type>G</type>
 			<weight/>
-			<value>3.0</value>
+			<value_>3.0</value_>
 			<property/>
 			<text>Source: Player's Handbook p. 157</text>
 		</item>
@@ -15690,7 +15690,7 @@ Source: Player's Handbook p. 152</text>
 			<detail>Adventuring Gear</detail>
 			<type>G</type>
 			<weight>4</weight>
-			<value>0.02</value>
+			<value_>0.02</value_>
 			<property/>
 			<text>A pitcher holds 1 gallon of liquid.
 Source: Player's Handbook p. 153</text>
@@ -15700,7 +15700,7 @@ Source: Player's Handbook p. 153</text>
 			<detail>Adventuring Gear</detail>
 			<type>G</type>
 			<weight>0.25</weight>
-			<value>0.05</value>
+			<value_>0.05</value_>
 			<property/>
 			<text>Source: Player's Handbook p. 150</text>
 		</item>
@@ -15709,7 +15709,7 @@ Source: Player's Handbook p. 153</text>
 			<detail>Trade Good</detail>
 			<type>G</type>
 			<weight>1</weight>
-			<value>500.0</value>
+			<value_>500.0</value_>
 			<property/>
 			<text>Source: Player's Handbook p. 157</text>
 		</item>
@@ -15718,7 +15718,7 @@ Source: Player's Handbook p. 153</text>
 			<detail/>
 			<type>$</type>
 			<weight>0.02</weight>
-			<value>10.0</value>
+			<value_>10.0</value_>
 			<property/>
 			<text>Common coins come in several different denominations based on the relative worth of the metal from which they are made. The three most common coins are the gold piece (gp), the silver piece (sp), and the copper piece (cp).
 With one gold piece, a character can buy a belt pouch, 50 feet of good rope, or a goat. A skilled (but not exceptional) artisan can earn one gold piece a day. The gold piece is the standard unit of measure for wealth, even if the coin itself is not commonly used. When merchants discuss deals that involve goods or services worth hundreds or thousands of gold pieces, the transactions don't usually involve the exchange of individual coins. Rather, the gold piece is a standard measure of value, and the actual exchange is in gold bars, letters of credit, or valuable goods.
@@ -15733,7 +15733,7 @@ Source: Player's Handbook p. 143</text>
 			<detail>Gaming Set</detail>
 			<type>G</type>
 			<weight/>
-			<value>0.5</value>
+			<value_>0.5</value_>
 			<property/>
 			<text>Source: Player's Handbook p. 154</text>
 		</item>
@@ -15742,7 +15742,7 @@ Source: Player's Handbook p. 143</text>
 			<detail>Tools</detail>
 			<type>G</type>
 			<weight>2</weight>
-			<value>50.0</value>
+			<value_>50.0</value_>
 			<property/>
 			<text>A poisoner's kit includes the vials, chemicals, and other equipment necessary for the creation of poisons. Proficiency with this kit lets you add your proficiency bonus to any ability checks you make to craft or use poisons.
 Additionally, the Crafting and Harvesting Poison rules require the use of a poisoner's kit.
@@ -15753,7 +15753,7 @@ Source: Player's Handbook p. 154</text>
 			<detail>Adventuring Gear</detail>
 			<type>G</type>
 			<weight>7</weight>
-			<value>0.05</value>
+			<value_>0.05</value_>
 			<property/>
 			<text>Source: Player's Handbook p. 150</text>
 		</item>
@@ -15762,7 +15762,7 @@ Source: Player's Handbook p. 154</text>
 			<detail>Mount</detail>
 			<type>G</type>
 			<weight/>
-			<value>30.0</value>
+			<value_>30.0</value_>
 			<property/>
 			<text>Source: Player's Handbook p. 157</text>
 		</item>
@@ -15771,7 +15771,7 @@ Source: Player's Handbook p. 154</text>
 			<detail>Adventuring Gear</detail>
 			<type>G</type>
 			<weight>35</weight>
-			<value>4.0</value>
+			<value_>4.0</value_>
 			<property/>
 			<text>You can use a portable ram to break down doors. When doing so, you gain a +4 bonus on the Strength check. One other character can help you use the ram, giving you advantage on this check.
 Source: Player's Handbook p. 153</text>
@@ -15781,7 +15781,7 @@ Source: Player's Handbook p. 153</text>
 			<detail>Artisan Tools</detail>
 			<type>G</type>
 			<weight>3</weight>
-			<value>10.0</value>
+			<value_>10.0</value_>
 			<property/>
 			<text>Source: Player's Handbook p. 154</text>
 		</item>
@@ -15790,7 +15790,7 @@ Source: Player's Handbook p. 153</text>
 			<detail>Adventuring Gear</detail>
 			<type>G</type>
 			<weight>1</weight>
-			<value>0.5</value>
+			<value_>0.5</value_>
 			<property/>
 			<text>A cloth or leather pouch can hold up to 20 sling bullet or 50 blowgun needle, among other things. A compartmentalized pouch for holding spell components is called a component pouch. A pouch can hold up to ⅕ cubic foot or 6 pounds of gear.
 Source: Player's Handbook p. 153</text>
@@ -15800,7 +15800,7 @@ Source: Player's Handbook p. 153</text>
 			<detail>Adventuring Gear</detail>
 			<type>G</type>
 			<weight>24</weight>
-			<value>19.0</value>
+			<value_>19.0</value_>
 			<property/>
 			<text>Includes:
 • a backpack
@@ -15820,7 +15820,7 @@ Source: Player's Handbook p. 151</text>
 			<detail>Adventuring Gear</detail>
 			<type>G</type>
 			<weight>1</weight>
-			<value>1.0</value>
+			<value_>1.0</value_>
 			<property/>
 			<text>A quiver can hold up to 20 arrow.
 Source: Player's Handbook p. 153</text>
@@ -15830,7 +15830,7 @@ Source: Player's Handbook p. 153</text>
 			<detail>Adventuring Gear</detail>
 			<type>G</type>
 			<weight>2</weight>
-			<value>0.5</value>
+			<value_>0.5</value_>
 			<property/>
 			<text>Rations consist of dry foods suitable for extended travel, including jerky, dried fruit, hardtack, and nuts.
 Source: Player's Handbook p. 153</text>
@@ -15840,7 +15840,7 @@ Source: Player's Handbook p. 153</text>
 			<detail>Spellcasting Focus</detail>
 			<type>G</type>
 			<weight>2</weight>
-			<value>5.0</value>
+			<value_>5.0</value_>
 			<property/>
 			<text>A holy symbol is a representation of a god or pantheon.
 A cleric or paladin can use a holy symbol as a spellcasting focus. To use the symbol in this way, the caster must hold it in hand, wear it visibly, or bear it on a shield.
@@ -15851,7 +15851,7 @@ Source: Player's Handbook p. 151</text>
 			<detail>Mount</detail>
 			<type>G</type>
 			<weight/>
-			<value>75.0</value>
+			<value_>75.0</value_>
 			<property/>
 			<text>Source: Player's Handbook p. 157</text>
 		</item>
@@ -15860,7 +15860,7 @@ Source: Player's Handbook p. 151</text>
 			<detail>Tack and Harness</detail>
 			<type>G</type>
 			<weight>25</weight>
-			<value>10.0</value>
+			<value_>10.0</value_>
 			<property/>
 			<text>Source: Player's Handbook p. 157</text>
 		</item>
@@ -15869,7 +15869,7 @@ Source: Player's Handbook p. 151</text>
 			<detail>Adventuring Gear</detail>
 			<type>G</type>
 			<weight>4</weight>
-			<value>1.0</value>
+			<value_>1.0</value_>
 			<property/>
 			<text>Source: Player's Handbook p. 150</text>
 		</item>
@@ -15878,7 +15878,7 @@ Source: Player's Handbook p. 151</text>
 			<detail>Adventuring Gear</detail>
 			<type>G</type>
 			<weight>0.5</weight>
-			<value>0.01</value>
+			<value_>0.01</value_>
 			<property/>
 			<text>A sack can hold up to 1 cubic foot or 30 pounds of gear.
 Source: Player's Handbook p. 153</text>
@@ -15888,7 +15888,7 @@ Source: Player's Handbook p. 153</text>
 			<detail>Tack and Harness</detail>
 			<type>G</type>
 			<weight>8</weight>
-			<value>4.0</value>
+			<value_>4.0</value_>
 			<property/>
 			<text>Source: Player's Handbook p. 157</text>
 		</item>
@@ -15897,7 +15897,7 @@ Source: Player's Handbook p. 153</text>
 			<detail>Trade Good</detail>
 			<type>G</type>
 			<weight>1</weight>
-			<value>15.0</value>
+			<value_>15.0</value_>
 			<property/>
 			<text>Source: Player's Handbook p. 157</text>
 		</item>
@@ -15906,7 +15906,7 @@ Source: Player's Handbook p. 153</text>
 			<detail>Trade Good</detail>
 			<type>G</type>
 			<weight>1</weight>
-			<value>0.05</value>
+			<value_>0.05</value_>
 			<property/>
 			<text>Source: Player's Handbook p. 157</text>
 		</item>
@@ -15915,7 +15915,7 @@ Source: Player's Handbook p. 153</text>
 			<detail>Adventuring Gear</detail>
 			<type>G</type>
 			<weight>10</weight>
-			<value>40.0</value>
+			<value_>40.0</value_>
 			<property/>
 			<text>Includes:
 • a backpack
@@ -15932,7 +15932,7 @@ Source: Player's Handbook p. 151</text>
 			<detail>Adventuring Gear</detail>
 			<type>G</type>
 			<weight/>
-			<value>0.5</value>
+			<value_>0.5</value_>
 			<property/>
 			<text>Source: Player's Handbook p. 150</text>
 		</item>
@@ -15941,7 +15941,7 @@ Source: Player's Handbook p. 151</text>
 			<detail>Instrument</detail>
 			<type>G</type>
 			<weight>1</weight>
-			<value>2.0</value>
+			<value_>2.0</value_>
 			<property/>
 			<text>Source: Player's Handbook p. 154</text>
 		</item>
@@ -15950,7 +15950,7 @@ Source: Player's Handbook p. 151</text>
 			<detail>Trade Good</detail>
 			<type>G</type>
 			<weight/>
-			<value>2.0</value>
+			<value_>2.0</value_>
 			<property/>
 			<text>Source: Player's Handbook p. 157</text>
 		</item>
@@ -15959,7 +15959,7 @@ Source: Player's Handbook p. 151</text>
 			<detail>Adventuring Gear</detail>
 			<type>G</type>
 			<weight>5</weight>
-			<value>2.0</value>
+			<value_>2.0</value_>
 			<property/>
 			<text>Source: Player's Handbook p. 150</text>
 		</item>
@@ -15968,7 +15968,7 @@ Source: Player's Handbook p. 151</text>
 			<detail>Adventuring Gear</detail>
 			<type>G</type>
 			<weight/>
-			<value>0.05</value>
+			<value_>0.05</value_>
 			<property/>
 			<text>Source: Player's Handbook p. 150</text>
 		</item>
@@ -15977,7 +15977,7 @@ Source: Player's Handbook p. 151</text>
 			<detail>Adventuring Gear</detail>
 			<type>G</type>
 			<weight/>
-			<value>5.0</value>
+			<value_>5.0</value_>
 			<property/>
 			<text>Source: Player's Handbook p. 150</text>
 		</item>
@@ -15986,7 +15986,7 @@ Source: Player's Handbook p. 151</text>
 			<detail>Trade Good</detail>
 			<type>G</type>
 			<weight/>
-			<value>10.0</value>
+			<value_>10.0</value_>
 			<property/>
 			<text>Source: Player's Handbook p. 157</text>
 		</item>
@@ -15995,7 +15995,7 @@ Source: Player's Handbook p. 151</text>
 			<detail>Adventuring Gear</detail>
 			<type>G</type>
 			<weight>5</weight>
-			<value>10.0</value>
+			<value_>10.0</value_>
 			<property/>
 			<text>Rope, whether made of hemp or silk, has 2 hit points and can be burst with a DC 17 Strength check.
 Source: Player's Handbook p. 153</text>
@@ -16005,7 +16005,7 @@ Source: Player's Handbook p. 153</text>
 			<detail>Trade Good</detail>
 			<type>G</type>
 			<weight>1</weight>
-			<value>5.0</value>
+			<value_>5.0</value_>
 			<property/>
 			<text>Source: Player's Handbook p. 157</text>
 		</item>
@@ -16014,7 +16014,7 @@ Source: Player's Handbook p. 153</text>
 			<detail/>
 			<type>$</type>
 			<weight>0.02</weight>
-			<value>0.1</value>
+			<value_>0.1</value_>
 			<property/>
 			<text>Common coins come in several different denominations based on the relative worth of the metal from which they are made. The three most common coins are the gold piece (gp), the silver piece (sp), and the copper piece (cp).
 With one gold piece, a character can buy a belt pouch, 50 feet of good rope, or a goat. A skilled (but not exceptional) artisan can earn one gold piece a day. The gold piece is the standard unit of measure for wealth, even if the coin itself is not commonly used. When merchants discuss deals that involve goods or services worth hundreds or thousands of gold pieces, the transactions don't usually involve the exchange of individual coins. Rather, the gold piece is a standard measure of value, and the actual exchange is in gold bars, letters of credit, or valuable goods.
@@ -16029,7 +16029,7 @@ Source: Player's Handbook p. 143</text>
 			<detail>Vehicle (land)</detail>
 			<type>G</type>
 			<weight>300</weight>
-			<value>20.0</value>
+			<value_>20.0</value_>
 			<property/>
 			<text>Source: Player's Handbook p. 157</text>
 		</item>
@@ -16038,7 +16038,7 @@ Source: Player's Handbook p. 143</text>
 			<detail>Adventuring Gear</detail>
 			<type>G</type>
 			<weight>10</weight>
-			<value>2.0</value>
+			<value_>2.0</value_>
 			<property/>
 			<text>Source: Player's Handbook p. 150</text>
 		</item>
@@ -16047,7 +16047,7 @@ Source: Player's Handbook p. 143</text>
 			<detail>Artisan Tools</detail>
 			<type>G</type>
 			<weight>8</weight>
-			<value>20.0</value>
+			<value_>20.0</value_>
 			<property/>
 			<text>Source: Player's Handbook p. 154</text>
 		</item>
@@ -16056,7 +16056,7 @@ Source: Player's Handbook p. 143</text>
 			<detail>Adventuring Gear</detail>
 			<type>G</type>
 			<weight/>
-			<value>0.02</value>
+			<value_>0.02</value_>
 			<property/>
 			<text>Source: Player's Handbook p. 150</text>
 		</item>
@@ -16065,7 +16065,7 @@ Source: Player's Handbook p. 143</text>
 			<detail>Adventuring Gear</detail>
 			<type>G</type>
 			<weight>3</weight>
-			<value>50.0</value>
+			<value_>50.0</value_>
 			<property/>
 			<text>Essential for wizards, a spellbook is a leather-bound tome with 100 blank vellum pages suitable for recording spells.
 Source: Player's Handbook p. 153</text>
@@ -16075,7 +16075,7 @@ Source: Player's Handbook p. 153</text>
 			<detail>Spellcasting Focus</detail>
 			<type>G</type>
 			<weight/>
-			<value>1.0</value>
+			<value_>1.0</value_>
 			<property/>
 			<text>A druid can use this object as a spellcasting focus.
 Source: Player's Handbook p. 151</text>
@@ -16085,7 +16085,7 @@ Source: Player's Handbook p. 151</text>
 			<detail>Adventuring Gear</detail>
 			<type>G</type>
 			<weight>1</weight>
-			<value>1000.0</value>
+			<value_>1000.0</value_>
 			<property/>
 			<text>Objects viewed through a spyglass are magnified to twice their size.
 Source: Player's Handbook p. 153</text>
@@ -16095,7 +16095,7 @@ Source: Player's Handbook p. 153</text>
 			<detail>Tack and Harness</detail>
 			<type>G</type>
 			<weight/>
-			<value>0.5</value>
+			<value_>0.5</value_>
 			<property/>
 			<text>Source: Player's Handbook p. 157</text>
 		</item>
@@ -16104,7 +16104,7 @@ Source: Player's Handbook p. 153</text>
 			<detail>Adventuring Gear</detail>
 			<type>G</type>
 			<weight>0.5</weight>
-			<value>5.0</value>
+			<value_>5.0</value_>
 			<property/>
 			<text>Source: Player's Handbook p. 150</text>
 		</item>
@@ -16113,7 +16113,7 @@ Source: Player's Handbook p. 153</text>
 			<detail>Adventuring Gear</detail>
 			<type>G</type>
 			<weight>1</weight>
-			<value>0.02</value>
+			<value_>0.02</value_>
 			<property/>
 			<text>A tankard holds 1 pint of liquid.
 Source: Player's Handbook p. 153</text>
@@ -16123,7 +16123,7 @@ Source: Player's Handbook p. 153</text>
 			<detail>Tools</detail>
 			<type>G</type>
 			<weight>1</weight>
-			<value>25.0</value>
+			<value_>25.0</value_>
 			<property/>
 			<text>This set of tools includes a small file, a set of lock picks, a small mirror mounted on a metal handle, a set of narrow-bladed scissors, and a pair of pliers. Proficiency with these tools lets you add your proficiency bonus to any ability checks you make to disarm traps or open locks.
 Source: Player's Handbook p. 154</text>
@@ -16133,7 +16133,7 @@ Source: Player's Handbook p. 154</text>
 			<detail>Gaming Set</detail>
 			<type>G</type>
 			<weight/>
-			<value>1.0</value>
+			<value_>1.0</value_>
 			<property/>
 			<text>Source: Player's Handbook p. 154</text>
 		</item>
@@ -16142,7 +16142,7 @@ Source: Player's Handbook p. 154</text>
 			<detail>Adventuring Gear</detail>
 			<type>G</type>
 			<weight>1</weight>
-			<value>0.5</value>
+			<value_>0.5</value_>
 			<property/>
 			<text>This small container holds flint, fire steel, and tinder (usually dry cloth soaked in light oil) used to kindle a fire. Using it to light a torch—or anything else with abundant, exposed fuel—takes an action. Lighting any other fire takes 1 minute.
 Source: Player's Handbook p. 153</text>
@@ -16152,7 +16152,7 @@ Source: Player's Handbook p. 153</text>
 			<detail>Artisan Tools</detail>
 			<type>G</type>
 			<weight>10</weight>
-			<value>50.0</value>
+			<value_>50.0</value_>
 			<property/>
 			<text>Source: Player's Handbook p. 154</text>
 		</item>
@@ -16161,7 +16161,7 @@ Source: Player's Handbook p. 153</text>
 			<detail>Adventuring Gear</detail>
 			<type>G</type>
 			<weight>1</weight>
-			<value>0.01</value>
+			<value_>0.01</value_>
 			<property/>
 			<text>A torch burns for 1 hour, providing bright light in a 20-foot radius and dim light for an additional 20 feet. If you make a melee attack with a burning torch and hit, it deals 1 fire damage.
 Source: Player's Handbook p. 153</text>
@@ -16171,7 +16171,7 @@ Source: Player's Handbook p. 153</text>
 			<detail>Spellcasting Focus</detail>
 			<type>G</type>
 			<weight/>
-			<value>1.0</value>
+			<value_>1.0</value_>
 			<property/>
 			<text>A druid can use this object as a spellcasting focus.
 Source: Player's Handbook p. 151</text>
@@ -16181,7 +16181,7 @@ Source: Player's Handbook p. 151</text>
 			<detail>Adventuring Gear</detail>
 			<type>G</type>
 			<weight>4</weight>
-			<value>2.0</value>
+			<value_>2.0</value_>
 			<property/>
 			<text>Source: Player's Handbook p. 150</text>
 		</item>
@@ -16301,7 +16301,7 @@ Source: Player's Handbook p. 159</text>
 			<detail>Adventuring Gear</detail>
 			<type>G</type>
 			<weight>20</weight>
-			<value>2.0</value>
+			<value_>2.0</value_>
 			<property/>
 			<text>A simple and portable canvas shelter, a tent sleeps two.
 Source: Player's Handbook p. 153</text>
@@ -16311,7 +16311,7 @@ Source: Player's Handbook p. 153</text>
 			<detail>Adventuring Gear</detail>
 			<type>G</type>
 			<weight/>
-			<value>1.0</value>
+			<value_>1.0</value_>
 			<property/>
 			<text>A vial can hold up to 4 ounces of liquid.
 Source: Player's Handbook p. 153</text>
@@ -16321,7 +16321,7 @@ Source: Player's Handbook p. 153</text>
 			<detail>Instrument</detail>
 			<type>G</type>
 			<weight>1</weight>
-			<value>30.0</value>
+			<value_>30.0</value_>
 			<property/>
 			<text>Source: Player's Handbook p. 154</text>
 		</item>
@@ -16330,7 +16330,7 @@ Source: Player's Handbook p. 153</text>
 			<detail>Vehicle (land)</detail>
 			<type>G</type>
 			<weight>400</weight>
-			<value>35.0</value>
+			<value_>35.0</value_>
 			<property/>
 			<text>Source: Player's Handbook p. 157</text>
 		</item>
@@ -16339,7 +16339,7 @@ Source: Player's Handbook p. 153</text>
 			<detail>Mount</detail>
 			<type>G</type>
 			<weight/>
-			<value>400.0</value>
+			<value_>400.0</value_>
 			<property/>
 			<text>Source: Player's Handbook p. 157</text>
 		</item>
@@ -16348,7 +16348,7 @@ Source: Player's Handbook p. 153</text>
 			<detail>Adventuring Gear</detail>
 			<type>G</type>
 			<weight>5</weight>
-			<value>0.2</value>
+			<value_>0.2</value_>
 			<property/>
 			<text>A waterskin can hold up to 4 pints of liquid.
 Source: Player's Handbook p. 153</text>
@@ -16358,7 +16358,7 @@ Source: Player's Handbook p. 153</text>
 			<detail>Artisan Tools</detail>
 			<type>G</type>
 			<weight>5</weight>
-			<value>1.0</value>
+			<value_>1.0</value_>
 			<property/>
 			<text>Source: Player's Handbook p. 154</text>
 		</item>
@@ -16367,7 +16367,7 @@ Source: Player's Handbook p. 153</text>
 			<detail>Trade Good</detail>
 			<type>G</type>
 			<weight>1</weight>
-			<value>0.01</value>
+			<value_>0.01</value_>
 			<property/>
 			<text>Source: Player's Handbook p. 157</text>
 		</item>
@@ -16376,7 +16376,7 @@ Source: Player's Handbook p. 153</text>
 			<detail>Adventuring Gear</detail>
 			<type>G</type>
 			<weight>1</weight>
-			<value>0.01</value>
+			<value_>0.01</value_>
 			<property/>
 			<text>Source: Player's Handbook p. 150</text>
 		</item>
@@ -16385,7 +16385,7 @@ Source: Player's Handbook p. 153</text>
 			<detail>Artisan Tools</detail>
 			<type>G</type>
 			<weight>5</weight>
-			<value>1.0</value>
+			<value_>1.0</value_>
 			<property/>
 			<text>Source: Player's Handbook p. 154</text>
 		</item>
@@ -16394,7 +16394,7 @@ Source: Player's Handbook p. 153</text>
 			<detail>Spellcasting Focus</detail>
 			<type>G</type>
 			<weight>4</weight>
-			<value>5.0</value>
+			<value_>5.0</value_>
 			<property>V</property>
 			<dmg1>1d6</dmg1>
 			<dmg2>1d8</dmg2>
@@ -16407,7 +16407,7 @@ Source: Player's Handbook p. 151</text>
 			<detail>Spellcasting Focus</detail>
 			<type>G</type>
 			<weight>1</weight>
-			<value>10.0</value>
+			<value_>10.0</value_>
 			<property/>
 			<text>A druid can use this object as a spellcasting focus.
 Source: Player's Handbook p. 151</text>
@@ -21976,7 +21976,7 @@ When you create a device, choose one of the following options:
 			<autolevel level="1">
 				<counter>
 					<name>Sorcery Points</name>
-					<value>1</value>
+					<value_>1</value_>
 					<reset>L</reset>
 				</counter>
 			</autolevel>
@@ -22139,7 +22139,7 @@ When you create a device, choose one of the following options:
 			<autolevel level="2">
 				<counter>
 					<name>Sorcery Points</name>
-					<value>2</value>
+					<value_>2</value_>
 					<reset>L</reset>
 				</counter>
 			</autolevel>
@@ -22160,7 +22160,7 @@ When you create a device, choose one of the following options:
 			<autolevel level="3">
 				<counter>
 					<name>Sorcery Points</name>
-					<value>3</value>
+					<value_>3</value_>
 					<reset>L</reset>
 				</counter>
 			</autolevel>
@@ -22230,7 +22230,7 @@ When you create a device, choose one of the following options:
 			<autolevel level="4">
 				<counter>
 					<name>Sorcery Points</name>
-					<value>4</value>
+					<value_>4</value_>
 					<reset>L</reset>
 				</counter>
 			</autolevel>
@@ -22249,7 +22249,7 @@ When you create a device, choose one of the following options:
 			<autolevel level="5">
 				<counter>
 					<name>Sorcery Points</name>
-					<value>5</value>
+					<value_>5</value_>
 					<reset>L</reset>
 				</counter>
 			</autolevel>
@@ -22259,7 +22259,7 @@ When you create a device, choose one of the following options:
 			<autolevel level="6">
 				<counter>
 					<name>Sorcery Points</name>
-					<value>6</value>
+					<value_>6</value_>
 					<reset>L</reset>
 				</counter>
 			</autolevel>
@@ -22293,7 +22293,7 @@ When you create a device, choose one of the following options:
 			<autolevel level="7">
 				<counter>
 					<name>Sorcery Points</name>
-					<value>7</value>
+					<value_>7</value_>
 					<reset>L</reset>
 				</counter>
 			</autolevel>
@@ -22303,7 +22303,7 @@ When you create a device, choose one of the following options:
 			<autolevel level="8">
 				<counter>
 					<name>Sorcery Points</name>
-					<value>8</value>
+					<value_>8</value_>
 					<reset>L</reset>
 				</counter>
 			</autolevel>
@@ -22322,7 +22322,7 @@ When you create a device, choose one of the following options:
 			<autolevel level="9">
 				<counter>
 					<name>Sorcery Points</name>
-					<value>9</value>
+					<value_>9</value_>
 					<reset>L</reset>
 				</counter>
 			</autolevel>
@@ -22332,7 +22332,7 @@ When you create a device, choose one of the following options:
 			<autolevel level="10">
 				<counter>
 					<name>Sorcery Points</name>
-					<value>10</value>
+					<value_>10</value_>
 					<reset>L</reset>
 				</counter>
 			</autolevel>
@@ -22350,7 +22350,7 @@ When you create a device, choose one of the following options:
 			<autolevel level="11">
 				<counter>
 					<name>Sorcery Points</name>
-					<value>11</value>
+					<value_>11</value_>
 					<reset>L</reset>
 				</counter>
 			</autolevel>
@@ -22360,7 +22360,7 @@ When you create a device, choose one of the following options:
 			<autolevel level="12">
 				<counter>
 					<name>Sorcery Points</name>
-					<value>12</value>
+					<value_>12</value_>
 					<reset>L</reset>
 				</counter>
 			</autolevel>
@@ -22379,7 +22379,7 @@ When you create a device, choose one of the following options:
 			<autolevel level="13">
 				<counter>
 					<name>Sorcery Points</name>
-					<value>13</value>
+					<value_>13</value_>
 					<reset>L</reset>
 				</counter>
 			</autolevel>
@@ -22389,7 +22389,7 @@ When you create a device, choose one of the following options:
 			<autolevel level="14">
 				<counter>
 					<name>Sorcery Points</name>
-					<value>14</value>
+					<value_>14</value_>
 					<reset>L</reset>
 				</counter>
 			</autolevel>
@@ -22424,7 +22424,7 @@ When you create a device, choose one of the following options:
 			<autolevel level="15">
 				<counter>
 					<name>Sorcery Points</name>
-					<value>15</value>
+					<value_>15</value_>
 					<reset>L</reset>
 				</counter>
 			</autolevel>
@@ -22434,7 +22434,7 @@ When you create a device, choose one of the following options:
 			<autolevel level="16">
 				<counter>
 					<name>Sorcery Points</name>
-					<value>16</value>
+					<value_>16</value_>
 					<reset>L</reset>
 				</counter>
 			</autolevel>
@@ -22453,7 +22453,7 @@ When you create a device, choose one of the following options:
 			<autolevel level="17">
 				<counter>
 					<name>Sorcery Points</name>
-					<value>17</value>
+					<value_>17</value_>
 					<reset>L</reset>
 				</counter>
 			</autolevel>
@@ -22471,7 +22471,7 @@ When you create a device, choose one of the following options:
 			<autolevel level="18">
 				<counter>
 					<name>Sorcery Points</name>
-					<value>18</value>
+					<value_>18</value_>
 					<reset>L</reset>
 				</counter>
 			</autolevel>
@@ -22505,7 +22505,7 @@ When you create a device, choose one of the following options:
 			<autolevel level="19">
 				<counter>
 					<name>Sorcery Points</name>
-					<value>19</value>
+					<value_>19</value_>
 					<reset>L</reset>
 				</counter>
 			</autolevel>
@@ -22524,7 +22524,7 @@ When you create a device, choose one of the following options:
 			<autolevel level="20">
 				<counter>
 					<name>Sorcery Points</name>
-					<value>20</value>
+					<value_>20</value_>
 					<reset>L</reset>
 				</counter>
 			</autolevel>
